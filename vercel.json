@@ -1,0 +1,8 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    { "source": "/api/dictionary/:term*", "destination": "https://api.datamuse.com/words?sp=:term*&qe=sp&md=dp&max=1" },
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}

@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#4f46e5">
+  <meta name="description" content="A private 24-week TOEIC 700+ study tracker">
+  <title>TOEIC 700+ Study Tracker</title>
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main-content" data-i18n="skip">Skip to main content</a>
+  <div class="app-shell">
+    <aside class="sidebar" aria-label="Main navigation">
+      <a class="brand" href="#home" data-nav="home" aria-label="TOEIC 700+ Home">
+        <span class="brand-mark">T<span></span></span>
+        <span><strong>TOEIC 700+</strong><small>24-week journey</small></span>
+      </a>
+      <nav class="nav-list">
+        <button class="nav-item active" data-route="home"><span data-icon="home"></span><span data-i18n="navHome">Today</span></button>
+        <button class="nav-item" data-route="study"><span data-icon="book"></span><span data-i18n="navStudy">Study</span></button>
+        <button class="nav-item" data-route="mistakes"><span data-icon="alert"></span><span data-i18n="navMistakes">Mistake Book</span></button>
+        <button class="nav-item" data-route="vocabulary"><span data-icon="cards"></span><span data-i18n="navVocabulary">Vocabulary</span></button>
+        <button class="nav-item" data-route="progress"><span data-icon="chart"></span><span data-i18n="navProgress">Progress</span></button>
+        <button class="nav-item" data-route="settings"><span data-icon="settings"></span><span data-i18n="navSettings">Settings</span></button>
+      </nav>
+      <div class="sidebar-goal" id="sidebar-goal"></div>
+    </aside>
+
+    <header class="topbar">
+      <button class="icon-button mobile-menu" id="mobile-menu" aria-label="Open menu"><span data-icon="menu"></span></button>
+      <div class="topbar-title"><strong id="page-title">Today</strong><span id="today-label"></span></div>
+      <div class="topbar-actions">
+        <select id="language-select" class="language-select" aria-label="Language"><option value="en">English</option><option value="vi">Tiếng Việt</option></select>
+        <span class="sync-state"><i></i> Saved locally</span>
+        <button class="icon-button" id="theme-toggle" aria-label="Toggle color theme"><span data-icon="moon"></span></button>
+      </div>
+    </header>
+
+    <main id="main-content" tabindex="-1">
+      <section class="view active" id="view-home" aria-labelledby="page-title"></section>
+      <section class="view" id="view-study" aria-labelledby="page-title"></section>
+      <section class="view" id="view-mistakes" aria-labelledby="page-title"></section>
+      <section class="view" id="view-vocabulary" aria-labelledby="page-title"></section>
+      <section class="view" id="view-progress" aria-labelledby="page-title"></section>
+      <section class="view" id="view-settings" aria-labelledby="page-title"></section>
+    </main>
+  </div>
+
+  <nav class="mobile-nav" aria-label="Mobile navigation">
+    <button class="active" data-route="home"><span data-icon="home"></span><small data-i18n="navHome">Today</small></button>
+    <button data-route="study"><span data-icon="book"></span><small data-i18n="navStudy">Study</small></button>
+    <button data-route="mistakes"><span data-icon="alert"></span><small data-i18n="mobileMistakes">Mistakes</small></button>
+    <button data-route="vocabulary"><span data-icon="cards"></span><small data-i18n="mobileVocab">Words</small></button>
+    <button data-route="progress"><span data-icon="chart"></span><small data-i18n="navProgress">Progress</small></button>
+  </nav>
+
+  <dialog id="session-dialog" class="modal modal-wide"><form method="dialog" id="session-form"><div class="modal-head"><div><span class="eyebrow" data-i18n="finishSession">FINISH SESSION</span><h2 data-i18n="recordResults">Record today's results</h2></div><button type="button" class="icon-button" data-close="session-dialog" aria-label="Close"><span data-icon="close"></span></button></div><div class="modal-body" id="session-modal-body"></div><div class="modal-actions"><button type="button" class="button ghost" data-close="session-dialog" data-i18n="later">Later</button><button type="submit" class="button primary" data-i18n="saveSession">Save session</button></div></form></dialog>
+
+  <dialog id="mistake-dialog" class="modal"><form method="dialog" id="mistake-form"><div class="modal-head"><div><span class="eyebrow" data-i18n="quickCapture">QUICK CAPTURE</span><h2 data-i18n="saveExternalMistake">Save a mistake from other material</h2></div><button type="button" class="icon-button" data-close="mistake-dialog" aria-label="Close"><span data-icon="close"></span></button></div><div class="modal-body" id="mistake-modal-body"></div><div class="modal-actions"><button type="button" class="button ghost" data-close="mistake-dialog" data-i18n="cancel">Cancel</button><button type="submit" class="button primary" data-i18n="saveMistake">Save mistake</button></div></form></dialog>
+
+  <dialog id="vocab-dialog" class="modal"><form method="dialog" id="vocab-form"><div class="modal-head"><div><span class="eyebrow">FLASHCARD</span><h2 data-i18n="addWord">Add a new word</h2></div><button type="button" class="icon-button" data-close="vocab-dialog" aria-label="Close"><span data-icon="close"></span></button></div><div class="modal-body" id="vocab-modal-body"></div><div class="modal-actions"><button type="button" class="button ghost" data-close="vocab-dialog" data-i18n="cancel">Cancel</button><button type="submit" class="button primary" data-i18n="addFlashcard">Add flashcard</button></div></form></dialog>
+
+  <dialog id="test-dialog" class="modal"><form method="dialog" id="test-form"><div class="modal-head"><div><span class="eyebrow">CHECKPOINT</span><h2 data-i18n="updateScore">Update test score</h2></div><button type="button" class="icon-button" data-close="test-dialog" aria-label="Close"><span data-icon="close"></span></button></div><div class="modal-body" id="test-modal-body"></div><div class="modal-actions"><button type="button" class="button ghost" data-close="test-dialog" data-i18n="cancel">Cancel</button><button type="submit" class="button primary" data-i18n="saveScore">Save score</button></div></form></dialog>
+
+  <dialog id="import-dialog" class="modal"><form method="dialog" id="import-form"><div class="modal-head"><div><span class="eyebrow" data-i18n="restoreData">RESTORE DATA</span><h2 data-i18n="previewBackup">Preview backup</h2></div><button type="button" class="icon-button" data-close="import-dialog" aria-label="Close"><span data-icon="close"></span></button></div><div class="modal-body" id="import-preview"></div><div class="modal-actions"><button type="button" class="button ghost" data-close="import-dialog" data-i18n="cancel">Cancel</button><button type="submit" class="button danger" data-i18n="overwrite">Overwrite current data</button></div></form></dialog>
+  <input type="file" id="import-file" accept="application/json,.json" hidden>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="initial-data.js"></script>
+  <script src="session-practice.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
