@@ -8,7 +8,7 @@
 - macOS/Linux: chạy `./start-local.sh`.
 - Giữ cửa sổ server đang chạy trong lúc dùng app. Nếu trình duyệt không tự mở, truy cập `http://127.0.0.1:8080`.
 
-Mỗi buổi có phần Reading bám theo đúng chủ điểm và Part trong lộ trình. Listening là tracker cho tài liệu tự chọn: có thể nhập kết quả hỗn hợp Part 1–4, nguồn đề, nguyên nhân sai và ghi chú. Câu Reading làm sai được tự động đưa vào Sổ lỗi sai; lỗi từ tài liệu ngoài có thể ghi nhanh ngay trong buổi học.
+Mỗi buổi có phần Reading bám theo đúng chủ điểm và Part trong lộ trình. Listening là tracker cho tài liệu tự chọn nhưng vẫn bám đúng Part của từng buổi: chỉ hiện Part được giao, buổi mock Listening đầy đủ mới hiện Parts 1–4, còn buổi ôn điểm yếu chung sẽ yêu cầu chọn đúng một Part. Có thể nhập nguồn đề, kết quả, nguyên nhân sai và ghi chú. Câu Reading làm sai được tự động đưa vào Sổ lỗi sai; lỗi từ tài liệu ngoài có thể ghi nhanh ngay trong buổi học.
 
 Trong Vocabulary, collocation luôn hiển thị trên flashcard. Khi thêm từ, chỉ cần nhập **Word / phrase** rồi bấm **Auto-fill** (hoặc bấm **Add flashcard** ngay): app lấy IPA thật từ mục Pronunciation của Wiktionary, dùng Datamuse cho nghĩa/từ loại, và điền ví dụ/collocation từ dữ liệu TOEIC có sẵn khi có. App không hiển thị ARPAbet dưới nhãn IPA. Nếu không lấy được IPA thật, trường IPA được để trống hoặc dùng dữ liệu offline đã kiểm tra.
 
