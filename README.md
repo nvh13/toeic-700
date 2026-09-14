@@ -10,7 +10,7 @@
 
 Mỗi buổi có phần Reading bám theo đúng chủ điểm và Part trong lộ trình. Listening là tracker cho tài liệu tự chọn nhưng vẫn bám đúng Part và số câu của từng buổi trong Excel: chỉ hiện Part được giao, hiển thị rõ Target cần làm, buổi mock Listening đầy đủ mới hiện Parts 1–4, còn buổi ôn điểm yếu chung sẽ yêu cầu chọn đúng một Part. Các mục ghi theo số bộ/đoạn Part 3–4 được hiển thị kèm số câu tương ứng (3 câu/bộ). Có thể nhập nguồn đề, kết quả, nguyên nhân sai và ghi chú. Câu Reading làm sai được tự động đưa vào Sổ lỗi sai; lỗi từ tài liệu ngoài có thể ghi nhanh ngay trong buổi học.
 
-Tab **24-week plan / Lộ trình 24 tuần** tự cuộn tới buổi đầu tiên chưa hoàn thành và đánh dấu đó là **Today / Hôm nay**. Giao diện dùng bảng màu slate dịu để giảm chói khi học lâu.
+Tab **24-week plan / Lộ trình 24 tuần** tự cuộn tới buổi đầu tiên chưa hoàn thành và đánh dấu đó là **Today / Hôm nay**. Giao diện dùng bảng màu **Fresh Sky Contrast**: nền sáng, chữ navy, xanh đậm cho hành động chính và mint làm điểm nhấn để tươi nhưng không chói.
 
 Reading dùng ngân hàng câu hỏi v2 do ứng dụng tạo riêng theo phong cách TOEIC nâng cao (không phải câu hỏi ETS chính thức): Part 5 có ngữ cảnh công việc và bẫy ngữ pháp/từ loại; Part 6 kiểm tra cả ngữ pháp lẫn mạch văn; Part 7 có paraphrase, suy luận, tính toán và tài liệu kép. Mỗi buổi không lặp lại cùng một câu Part 5 hay cùng một passage. Riêng Tuần 3 · Buổi 12 có 15 câu verb system hoàn toàn khác nhau. Khi nội dung Reading được nâng phiên bản, đáp án của lần làm cũ không bị ghép nhầm vào bộ câu mới; nhật ký, tiến độ và sổ lỗi vẫn được giữ nguyên.
 
