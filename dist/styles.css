@@ -483,6 +483,8 @@ tr:last-child td { border-bottom: 0; }
 .mistake-passage summary { cursor: pointer; font-weight: 600; }
 .mistake-passage p { white-space: pre-wrap; line-height: 1.65; color: var(--ink); }
 .timer-active-total { color: var(--muted); font-size: 11px; line-height: 1.6; margin: 8px 0 16px; }
+.vocabulary-task { background: color-mix(in srgb, var(--surface-2) 82%, var(--primary-soft)); }
+.vocabulary-plan-label { display: block; margin: 5px 0 3px; color: var(--primary); font-size: 10px; font-weight: 800; letter-spacing: .08em; }
 .audio-console { grid-template-columns: 48px minmax(140px,1fr) minmax(240px,1.25fr); }
 .audio-console audio { width: 100%; height: 38px; }
 .listening-drills { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 14px; padding: 20px 24px 24px; border-top: 1px solid var(--border); }

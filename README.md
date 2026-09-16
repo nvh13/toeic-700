@@ -10,6 +10,8 @@
 
 Mỗi buổi có phần Reading bám theo đúng chủ điểm và Part trong lộ trình. Listening là tracker cho tài liệu tự chọn nhưng vẫn bám đúng Part và số câu của từng buổi trong Excel: chỉ hiện Part được giao, hiển thị rõ Target cần làm, buổi mock Listening đầy đủ mới hiện Parts 1–4, còn buổi ôn điểm yếu chung sẽ yêu cầu chọn đúng một Part. Các mục ghi theo số bộ/đoạn Part 3–4 được hiển thị kèm số câu tương ứng (3 câu/bộ). Có thể nhập nguồn đề, kết quả, nguyên nhân sai và ghi chú. Câu Reading làm sai được tự động đưa vào Sổ lỗi sai; lỗi từ tài liệu ngoài có thể ghi nhanh ngay trong buổi học.
 
+Mục Vocabulary trong workspace hiển thị nguyên nội dung cột **Từ vựng** của đúng buổi trong lộ trình Excel, gồm số lượng, nguồn lấy từ và chủ đề cụ thể như Office and people, Work routines, Meetings and appointments, Travel and transportation. Nội dung được dịch đầy đủ khi chuyển sang English; các buổi ôn tập giữ nguyên phạm vi ôn theo tuần, tháng, mock test hoặc SRS thay vì gán thêm chủ đề không có trong file gốc.
+
 Tab **24-week plan / Lộ trình 24 tuần** tự cuộn tới buổi đầu tiên chưa hoàn thành và đánh dấu đó là **Today / Hôm nay**. Giao diện dùng bảng màu **Fresh Sky Contrast**: nền sáng, chữ navy, xanh đậm cho hành động chính và mint làm điểm nhấn để tươi nhưng không chói.
 
 Reading v4 được rà theo lộ trình của toàn bộ 96 buổi, không ưu tiên riêng một buổi. Buổi học một chủ điểm chỉ hỏi chủ điểm đó ở Part 5/6; buổi ôn tập chỉ dùng ngữ pháp đã giới thiệu; checkpoint và mock mới tổng hợp rộng. Phần giải thích sau khi chấm hiển thị chủ điểm câu hỏi. Part 7 đi theo kỹ năng đọc được giao, bao gồm bài đơn, paraphrase, đọc tài liệu kép/ba và chèn câu/từ tham chiếu.
