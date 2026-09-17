@@ -32,3 +32,5 @@ Trong Vocabulary, collocation luôn hiển thị trên flashcard. Khi thêm từ
 4. Đặt **Output Directory** là `dist` và deploy.
 
 Dữ liệu được lưu trong IndexedDB của trình duyệt. Dùng **Settings → Export backup** hoặc **Cài đặt → Xuất backup** để chuyển dữ liệu sang máy khác hoặc tránh mất dữ liệu khi xóa browser data.
+
+Tùy chọn **Remind me to export before leaving / Nhắc export trước khi rời trang** được bật mặc định. Trình duyệt sẽ hỏi xác nhận khi đóng tab, đóng trình duyệt, F5 hoặc chuyển sang URL khác. Đây là hộp thoại hệ thống nên nội dung do trình duyệt quyết định và chỉ xuất hiện sau khi người dùng đã tương tác với trang. Cảnh báo không tự tải backup; chọn ở lại rồi bấm **Export backup / Xuất backup**. Có thể tắt nhắc trong Settings.
