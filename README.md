@@ -33,4 +33,16 @@ Trong Vocabulary, collocation luôn hiển thị trên flashcard. Khi thêm từ
 
 Dữ liệu được lưu trong IndexedDB của trình duyệt. Dùng **Settings → Export backup** hoặc **Cài đặt → Xuất backup** để chuyển dữ liệu sang máy khác hoặc tránh mất dữ liệu khi xóa browser data.
 
+### Dùng dữ liệu từ GitHub trên máy khác
+
+Dữ liệu làm việc vẫn luôn nằm trong IndexedDB của từng trình duyệt. GitHub/Vercel đóng vai trò bản dữ liệu khởi tạo, không phải đồng bộ hai chiều:
+
+1. Trên máy đang có dữ liệu mới nhất, vào **Settings → Export for GitHub**. App tải file cố định tên `toeic-data.json`.
+2. Chép file đó vào `dist/data/toeic-data.json` trong repository. Nếu đã có file cũ thì ghi đè.
+3. Commit và push lên GitHub, sau đó đợi Vercel deploy xong.
+4. Trên máy/trình duyệt mới chưa từng dùng app, mở website: app sẽ tự nạp file GitHub một lần rồi lưu vào IndexedDB của máy đó.
+5. Nếu trình duyệt đó đã từng mở app, vào **Settings → Load GitHub data / Nạp dữ liệu GitHub** và xác nhận ghi đè. App không tự ghi đè để tránh làm mất tiến độ mới hơn đang có trên máy.
+
+Mỗi lần muốn chuyển tiến độ mới sang máy khác, lặp lại bước 1–3. Đây là cơ chế chuyển bản backup qua GitHub, không phải cloud sync thời gian thực. **Nếu site Vercel là public thì `toeic-data.json` cũng là file public**, kể cả repository là private; không đưa ghi chú nhạy cảm vào file.
+
 Tùy chọn **Remind me to export before leaving / Nhắc export trước khi rời trang** được bật mặc định. Trình duyệt sẽ hỏi xác nhận khi đóng tab, đóng trình duyệt, F5 hoặc chuyển sang URL khác. Đây là hộp thoại hệ thống nên nội dung do trình duyệt quyết định và chỉ xuất hiện sau khi người dùng đã tương tác với trang. Cảnh báo không tự tải backup; chọn ở lại rồi bấm **Export backup / Xuất backup**. Có thể tắt nhắc trong Settings.

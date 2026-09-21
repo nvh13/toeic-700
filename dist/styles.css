@@ -441,6 +441,8 @@ tr:last-child td { border-bottom: 0; }
   .schedule-actions { grid-column: 1/-1; justify-content: flex-end; }
   .part-entry { grid-template-columns: repeat(2,1fr); }
   .form-grid.two { grid-template-columns: 1fr; }
+  .github-data-head { flex-direction: column; }
+  .github-data-head code { max-width: 100%; overflow-wrap: anywhere; }
   .quiz-options { grid-template-columns: 1fr; }
   .vocab-table { overflow-x: auto; }
   .test-row { grid-template-columns: minmax(0,1fr) 72px; }
@@ -523,6 +525,11 @@ tr:last-child td { border-bottom: 0; }
 .grammar-row strong { font-size: 12px; }
 .grammar-row span { color: var(--muted); font-size: 10px; }
 .settings-actions { display: grid; gap: 9px; }
+.github-data-card { margin-top: 20px; }
+.github-data-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 18px; }
+.github-data-head h2 { margin-top: 4px; }
+.github-data-head code { flex: 0 0 auto; padding: 8px 10px; color: var(--primary-strong); background: var(--primary-soft); border: 1px solid color-mix(in srgb,var(--primary),transparent 72%); border-radius: 9px; font-size: 11px; font-weight: 800; }
+.github-data-warning { margin: -5px 0 16px; padding: 11px 12px; color: var(--amber); background: var(--amber-soft); border-radius: 10px; font-size: 11px; line-height: 1.5; }
 .vocab-lookup-row { display: grid; grid-template-columns: minmax(0,1fr) auto; align-items: end; gap: 10px; }
 .lookup-status { margin: 10px 0 4px; padding: 10px 12px; color: var(--muted); background: var(--surface-2); border-radius: 10px; font-size: 11px; }
 .lookup-status.loading { color: var(--primary); }
