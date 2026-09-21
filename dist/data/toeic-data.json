@@ -2231,6 +2231,66 @@
   ],
   "vocabulary": [
     {
+      "id": 1789987594351,
+      "date": "2026-09-21",
+      "week": 4,
+      "sessionId": 14,
+      "word": "lean",
+      "ipa": "/ˈliːn/",
+      "pos": "adjective",
+      "meaning": "(intransitive) To incline, deviate, or bend, from a vertical position; to be in a position thus inclining or deviating.",
+      "collocation": "lean against something, lean over",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1789987474692,
+      "date": "2026-09-21",
+      "week": 4,
+      "sessionId": 14,
+      "word": "reserved",
+      "ipa": "/ɹɪˈzɝvd/",
+      "pos": "adjective",
+      "meaning": "(not comparable) Set aside for a particular person or purpose; spoken for.",
+      "collocation": "reserved seat, reserved parking space",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1789987357146,
+      "date": "2026-09-21",
+      "week": 4,
+      "sessionId": 14,
+      "word": "settled",
+      "ipa": "/ˈsɛtl̩d/",
+      "pos": "adjective",
+      "meaning": "Comfortable and at ease, especially after a period of change or unrest.",
+      "collocation": "settle a dispute, settle a problem",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1789987108021,
+      "date": "2026-09-21",
+      "week": 4,
+      "sessionId": 14,
+      "word": "realize",
+      "ipa": "/ˈɹɪə.laɪz/",
+      "pos": "verb",
+      "meaning": "(transitive) To become aware of, understand, or appreciate (a fact or situation, especially something which has been true for some time).",
+      "collocation": "realize one's mistake, realize the importance of something",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
       "id": 1789633531781,
       "date": "2026-09-17",
       "week": 4,
@@ -3920,7 +3980,7 @@
     "timerMode": "focus",
     "focusMinutes": 25,
     "breakMinutes": 5,
-    "lastBackupAt": "2026-09-21T09:16:30.412Z",
+    "lastBackupAt": "2026-09-21T10:50:30.420Z",
     "language": "en",
     "warnBeforeExit": true
   },
@@ -4100,10 +4160,10 @@
     },
     {
       "sessionId": 13,
-      "date": "2026-09-16",
+      "date": "2026-09-21",
       "source": "TOEIC LR Collection 1 Test 5",
       "reason": "sound",
-      "notes": "Sai 4 câu \nĐoán 5 câu",
+      "notes": "Không nghe rõ 9 câu \nĐoán 5 câu",
       "parts": [
         {
           "part": 2,
@@ -4113,6 +4173,22 @@
       ],
       "total": 15,
       "correct": 11
+    },
+    {
+      "sessionId": 14,
+      "date": "2026-09-21",
+      "source": "TOEIC LR Collection 1 Test 5",
+      "reason": "sound",
+      "notes": "Không nghe rõ 3 câu \nKhông biết từ vựng 1 câu\nĐoán 1 câu",
+      "parts": [
+        {
+          "part": 2,
+          "total": 10,
+          "correct": 7
+        }
+      ],
+      "total": 10,
+      "correct": 7
     }
   ],
   "scopeChecks": {
@@ -4209,7 +4285,9 @@
     },
     "14": {
       "grammar": true,
-      "reading": true
+      "reading": true,
+      "listening": true,
+      "review": true
     },
     "15": {
       "grammar": false
