@@ -2231,6 +2231,201 @@
   ],
   "vocabulary": [
     {
+      "id": 1790006215478,
+      "date": "2026-09-21",
+      "week": 4,
+      "sessionId": 14,
+      "word": "contractor",
+      "ipa": "/ˈkɒnˌtɹæk.tə(ɹ)/",
+      "pos": "noun",
+      "meaning": "A person or company that builds or improves buildings or structures.",
+      "collocation": "independent contractor, hire a contractor, contractor agreement",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 1
+    },
+    {
+      "id": 1790006186178,
+      "date": "2026-09-21",
+      "week": 4,
+      "sessionId": 14,
+      "word": "trainee",
+      "ipa": "/tɹeɪˈni/",
+      "pos": "noun",
+      "meaning": "Someone who is still in the process of being formally trained in a workplace.",
+      "collocation": "new trainee, trainee position, training for trainees",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 1
+    },
+    {
+      "id": 1790006158362,
+      "date": "2026-09-21",
+      "week": 4,
+      "sessionId": 14,
+      "word": "benefit",
+      "ipa": "/ˈbɛn.ɪ.fɪt/",
+      "pos": "noun",
+      "meaning": "An advantage; help or aid from something.",
+      "collocation": "employee benefits, health benefits, retirement benefits",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1790006138949,
+      "date": "2026-09-21",
+      "week": 4,
+      "sessionId": 14,
+      "word": "wage",
+      "ipa": "/weɪd͡ʒ/",
+      "pos": "noun",
+      "meaning": "(often in plural) An amount of money paid to a worker for a specified quantity of work, usually calculated on an hourly basis and expressed in an amount of money per hour.",
+      "collocation": "hourly wage, minimum wage, raise wages",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1790006108350,
+      "date": "2026-09-21",
+      "week": 4,
+      "sessionId": 14,
+      "word": "promotion",
+      "ipa": "/pɹəˈməʊʃn̩/",
+      "pos": "noun",
+      "meaning": "Dissemination of information in order to increase its popularity.",
+      "collocation": "receive a promotion, get a promotion, promotion opportunity",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1790006097035,
+      "date": "2026-09-21",
+      "week": 4,
+      "sessionId": 14,
+      "word": "appraisal",
+      "ipa": "/əˈpɹeɪzəl/",
+      "pos": "noun",
+      "meaning": "sự đánh giá (thường về hiệu suất nhân viên)",
+      "collocation": "performance appraisal, annual appraisal",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1790006033653,
+      "date": "2026-09-21",
+      "week": 4,
+      "sessionId": 14,
+      "word": "qualification",
+      "ipa": "/ˌkwɒlɪfɪˈkeɪʃən/",
+      "pos": "noun",
+      "meaning": "The act or process of qualifying for a position, achievement etc.",
+      "collocation": "job qualifications, meet the qualifications, required qualifications",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1790005983144,
+      "date": "2026-09-21",
+      "week": 4,
+      "sessionId": 14,
+      "word": "retire",
+      "ipa": "/ɹɪˈtaɪə/",
+      "pos": "verb",
+      "meaning": "(intransitive) To stop working on a permanent basis, usually because of old age or illness.",
+      "collocation": "retire from a position, retire at age...",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1790005967390,
+      "date": "2026-09-21",
+      "week": 4,
+      "sessionId": 14,
+      "word": "hire",
+      "ipa": "/ˈhaɪ(.)ə/",
+      "pos": "verb",
+      "meaning": "(transitive) To employ; to obtain the services of (a person) in exchange for remuneration; to give someone a job.",
+      "collocation": "hire an employee, hire additional staff, newly hired",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1790005925225,
+      "date": "2026-09-21",
+      "week": 4,
+      "sessionId": 14,
+      "word": "colleague",
+      "ipa": "/ˈkɒliːɡ/",
+      "pos": "noun",
+      "meaning": "A fellow member of a profession, staff, academic faculty or other organization; an associate, a workmate.",
+      "collocation": "close colleague, former colleague, colleague at work",
+      "example": "",
+      "remembered": true,
+      "note": "",
+      "reviewCount": 1
+    },
+    {
+      "id": 1790005903224,
+      "date": "2026-09-21",
+      "week": 4,
+      "sessionId": 14,
+      "word": "applicant",
+      "ipa": "/ˈæp.lɪ.kənt/",
+      "pos": "noun",
+      "meaning": "One who applies for something; one who makes a request; a petitioner.",
+      "collocation": "job applicant, successful applicant, applicant's qualifications",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1790005869481,
+      "date": "2026-09-21",
+      "week": 4,
+      "sessionId": 14,
+      "word": "candidate",
+      "ipa": "/ˈkæn.dɪ.dət/",
+      "pos": "noun",
+      "meaning": "ứng viên",
+      "collocation": "job candidate, qualified candidate, potential candidate",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1790005826318,
+      "date": "2026-09-21",
+      "week": 4,
+      "sessionId": 14,
+      "word": "employer",
+      "ipa": "/ɪmˈplɔɪə/",
+      "pos": "noun",
+      "meaning": "A person, firm or other entity which pays for or hires the services of another person.",
+      "collocation": "potential employer, employer-sponsored, employer benefits",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
       "id": 1789987594351,
       "date": "2026-09-21",
       "week": 4,
@@ -2511,9 +2706,9 @@
       "meaning": "thư ký",
       "collocation": "",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 10,
@@ -2526,9 +2721,9 @@
       "meaning": "tiêu tốn",
       "collocation": "reduce costs, operating costs, additional cost",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 11,
@@ -2571,9 +2766,9 @@
       "meaning": "người ăn chay",
       "collocation": "vegetarian meal, vegetarian option",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 14,
@@ -2691,9 +2886,9 @@
       "meaning": "quầy",
       "collocation": "at the counter, checkout counter",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 22,
@@ -2706,9 +2901,9 @@
       "meaning": "quét",
       "collocation": "sweep the floor, sweep the sidewalk",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 23,
@@ -2751,9 +2946,9 @@
       "meaning": "lắp ráp, tập hợp",
       "collocation": "assemble furniture, assemble parts",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 26,
@@ -2886,9 +3081,9 @@
       "meaning": "hàng",
       "collocation": "out of stock, stock a product",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 35,
@@ -3141,9 +3336,9 @@
       "meaning": "biên bản cuộc họp",
       "collocation": "meeting minutes, take minutes",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 52,
@@ -3246,9 +3441,9 @@
       "meaning": "kết thúc",
       "collocation": "wrap up a meeting",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 59,
@@ -3323,7 +3518,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 64,
@@ -3456,9 +3651,9 @@
       "meaning": "máy móc",
       "collocation": "heavy machinery / industrial machinery",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 73,
@@ -3486,9 +3681,9 @@
       "meaning": "dây chuyền lắp ráp",
       "collocation": "",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 75,
@@ -3516,9 +3711,9 @@
       "meaning": "thuyết phục",
       "collocation": "persuade someone to do something",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 77,
@@ -3546,9 +3741,9 @@
       "meaning": "mục tiêu",
       "collocation": "project objective, achieve an objective",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 79,
@@ -3576,9 +3771,9 @@
       "meaning": "ngân sách",
       "collocation": "project budget, within budget",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 81,
@@ -3591,9 +3786,9 @@
       "meaning": "giai đoạn",
       "collocation": "planning phase, final phase",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 82,
@@ -3608,7 +3803,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 83,
@@ -3623,7 +3818,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     }
   ],
   "tests": [
@@ -3980,7 +4175,7 @@
     "timerMode": "focus",
     "focusMinutes": 25,
     "breakMinutes": 5,
-    "lastBackupAt": "2026-09-21T10:50:30.420Z",
+    "lastBackupAt": "2026-09-21T16:39:00.624Z",
     "language": "en",
     "warnBeforeExit": true
   },
