@@ -243,7 +243,7 @@
       "sequence": "30' ngữ pháp + 15' từ vựng + 15' Đọc + 10' Nghe + 5' ghi nhật ký",
       "checkpoint": null,
       "scheduledDate": null,
-      "status": "planned"
+      "status": "completed"
     },
     {
       "id": 15,
@@ -1926,6 +1926,35 @@
       ],
       "errorReasons": [],
       "notes": ""
+    },
+    {
+      "sessionId": 14,
+      "date": "2026-09-21",
+      "checks": {
+        "grammar": true,
+        "vocabulary": true,
+        "listening": true,
+        "reading": true,
+        "review": true
+      },
+      "minutes": 75,
+      "total": 25,
+      "correct": 22,
+      "legacyInvalid": false,
+      "parts": [
+        {
+          "part": 2,
+          "total": 10,
+          "correct": 7
+        },
+        {
+          "part": 5,
+          "total": 15,
+          "correct": 15
+        }
+      ],
+      "errorReasons": [],
+      "notes": ""
     }
   ],
   "grammar": [
@@ -2230,6 +2259,96 @@
     }
   ],
   "vocabulary": [
+    {
+      "id": 1790072421711,
+      "date": "2026-09-22",
+      "week": 4,
+      "sessionId": 14,
+      "word": "apron",
+      "ipa": "/ˈeɪ.pɹən/",
+      "pos": "noun",
+      "meaning": "An article of clothing worn over the front of the torso and/or legs for protection from spills; also historically worn by Freemasons and as part of women's fashion.",
+      "collocation": "wear an apron, take off an apron",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1790072310257,
+      "date": "2026-09-22",
+      "week": 4,
+      "sessionId": 14,
+      "word": "curb",
+      "ipa": "/kɝb/",
+      "pos": "noun",
+      "meaning": "lề đường / mép đường",
+      "collocation": "along the curb, at the curb",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1790072267507,
+      "date": "2026-09-22",
+      "week": 4,
+      "sessionId": 14,
+      "word": "planter",
+      "ipa": "/ˈplæntə(ɹ)/",
+      "pos": "noun",
+      "meaning": "A box or pot for plants to be planted in, usually large and standing on the floor.",
+      "collocation": "place planters along the sidewalk, planters outside the building",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1790072216475,
+      "date": "2026-09-22",
+      "week": 4,
+      "sessionId": 14,
+      "word": "pedestrian",
+      "ipa": "/pəˈdestriən/",
+      "pos": "noun",
+      "meaning": "A walker; one who walks or goes on foot, especially as opposed to one who uses a vehicle.",
+      "collocation": "pedestrian crossing, pedestrian traffic",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1790071987031,
+      "date": "2026-09-22",
+      "week": 4,
+      "sessionId": 14,
+      "word": "display case",
+      "ipa": "/dɪˈspleɪ keɪs/",
+      "pos": "noun",
+      "meaning": "tủ/kệ kính trưng bàytủ/kệ kính trưng bày",
+      "collocation": "glass display case, in a display case",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1790071926636,
+      "date": "2026-09-22",
+      "week": 4,
+      "sessionId": 14,
+      "word": "pastry",
+      "ipa": "/ˈpeɪstɹi/",
+      "pos": "noun",
+      "meaning": "(countable) A baked food item made from flour and fat pastes such as pie crust; also tarts, bear claws, napoleons, puff pastries, etc.",
+      "collocation": "fresh pastry / fresh pastries, pastry shop",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
     {
       "id": 1790006215478,
       "date": "2026-09-21",
@@ -4175,7 +4294,7 @@
     "timerMode": "focus",
     "focusMinutes": 25,
     "breakMinutes": 5,
-    "lastBackupAt": "2026-09-21T16:39:00.624Z",
+    "lastBackupAt": "2026-09-22T10:22:17.142Z",
     "language": "en",
     "warnBeforeExit": true
   },
@@ -4384,6 +4503,22 @@
       ],
       "total": 10,
       "correct": 7
+    },
+    {
+      "sessionId": 15,
+      "date": "2026-09-22",
+      "source": "TOEIC LR Collection 1 Test 4",
+      "reason": "sound",
+      "notes": "Không nghe rõ 1 câu \nKhông biết từ vựng 1 câu",
+      "parts": [
+        {
+          "part": 1,
+          "total": 6,
+          "correct": 4
+        }
+      ],
+      "total": 6,
+      "correct": 4
     }
   ],
   "scopeChecks": {
@@ -4480,12 +4615,14 @@
     },
     "14": {
       "grammar": true,
-      "reading": true,
+      "vocabulary": true,
       "listening": true,
+      "reading": true,
       "review": true
     },
     "15": {
-      "grammar": false
+      "grammar": false,
+      "listening": true
     }
   }
 }
