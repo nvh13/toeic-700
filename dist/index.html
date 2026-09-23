@@ -7,7 +7,7 @@
   <meta name="description" content="A private 24-week TOEIC 700+ study tracker">
   <title>TOEIC 700+ Study Tracker</title>
   <link rel="icon" type="image/svg+xml" href="favicon.svg">
-  <link rel="stylesheet" href="styles.css?v=20260921-3">
+  <link rel="stylesheet" href="styles.css?v=20260923-1">
 </head>
 <body>
   <a class="skip-link" href="#main-content" data-i18n="skip">Skip to main content</a>
@@ -60,7 +60,7 @@
 
   <dialog id="mistake-dialog" class="modal"><form method="dialog" id="mistake-form"><div class="modal-head"><div><span class="eyebrow" data-i18n="quickCapture">QUICK CAPTURE</span><h2 data-i18n="saveExternalMistake">Save a mistake from other material</h2></div><button type="button" class="icon-button" data-close="mistake-dialog" aria-label="Close"><span data-icon="close"></span></button></div><div class="modal-body" id="mistake-modal-body"></div><div class="modal-actions"><button type="button" class="button ghost" data-close="mistake-dialog" data-i18n="cancel">Cancel</button><button type="submit" class="button primary" data-i18n="saveMistake">Save mistake</button></div></form></dialog>
 
-  <dialog id="vocab-dialog" class="modal"><form method="dialog" id="vocab-form"><div class="modal-head"><div><span class="eyebrow">FLASHCARD</span><h2 data-i18n="addWord">Add a new word</h2></div><button type="button" class="icon-button" data-close="vocab-dialog" aria-label="Close"><span data-icon="close"></span></button></div><div class="modal-body" id="vocab-modal-body"></div><div class="modal-actions"><button type="button" class="button ghost" data-close="vocab-dialog" data-i18n="cancel">Cancel</button><button type="submit" class="button primary" data-i18n="addFlashcard">Add flashcard</button></div></form></dialog>
+  <dialog id="vocab-dialog" class="modal"><form method="dialog" id="vocab-form"><div class="modal-head"><div><span class="eyebrow">FLASHCARD</span><h2 id="vocab-dialog-title" data-i18n="addWord">Add a new word</h2></div><button type="button" class="icon-button" data-close="vocab-dialog" aria-label="Close"><span data-icon="close"></span></button></div><div class="modal-body" id="vocab-modal-body"></div><div class="modal-actions"><button type="button" class="button ghost" data-close="vocab-dialog" data-i18n="cancel">Cancel</button><button type="submit" class="button primary" id="vocab-submit" data-i18n="addFlashcard">Add flashcard</button></div></form></dialog>
 
   <dialog id="test-dialog" class="modal"><form method="dialog" id="test-form"><div class="modal-head"><div><span class="eyebrow">CHECKPOINT</span><h2 data-i18n="updateScore">Update test score</h2></div><button type="button" class="icon-button" data-close="test-dialog" aria-label="Close"><span data-icon="close"></span></button></div><div class="modal-body" id="test-modal-body"></div><div class="modal-actions"><button type="button" class="button ghost" data-close="test-dialog" data-i18n="cancel">Cancel</button><button type="submit" class="button primary" data-i18n="saveScore">Save score</button></div></form></dialog>
 
@@ -69,6 +69,6 @@
   <div class="toast" id="toast" role="status" aria-live="polite"></div>
   <script src="initial-data.js"></script>
   <script src="session-practice.js"></script>
-  <script src="app.js?v=20260921-3"></script>
+  <script src="app.js?v=20260923-1"></script>
 </body>
 </html>

@@ -505,8 +505,10 @@ tr:last-child td { border-bottom: 0; }
 .shadow-actions { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
 .shadow-actions span { color: var(--muted); font-size: 11px; }
 .page-head { margin-bottom: 20px; }
+.page-head > div:first-child { margin-right: auto; }
 .page-head h1 { margin: 2px 0 3px; font-size: 30px; }
 .page-head p { margin: 0; color: var(--muted); font-size: 13px; }
+.reset-vocab-status { flex: 0 0 auto; }
 .mistake-item { display: block; }
 .mistake-top { display: grid; grid-template-columns: 44px minmax(0,1fr) auto; align-items: center; gap: 12px; }
 .mistake-top strong,.mistake-top span { display: block; }
@@ -520,6 +522,10 @@ tr:last-child td { border-bottom: 0; }
 .status-toggle { width: auto; padding: 6px 10px; border: 1px solid; border-radius: 999px; cursor: pointer; font-size: 10px; font-weight: 800; }
 .status-toggle.remembered { color: var(--green); background: var(--green-soft); border-color: color-mix(in srgb,var(--green),transparent 60%); }
 .status-toggle.review { color: var(--amber); background: var(--amber-soft); border-color: color-mix(in srgb,var(--amber),transparent 60%); }
+.vocab-edit-button { min-height: 29px; display: inline-flex; align-items: center; gap: 5px; margin-left: 7px; padding: 5px 9px; color: var(--primary); background: var(--primary-soft); border: 1px solid color-mix(in srgb,var(--primary),transparent 68%); border-radius: 9px; cursor: pointer; font-size: 10px; font-weight: 800; vertical-align: middle; }
+.vocab-edit-button:hover { color: var(--surface); background: var(--primary); }
+.vocab-edit-button svg { width: 13px; height: 13px; }
+.vocab-table td:last-child { min-width: 190px; white-space: nowrap; }
 .vocab-table td strong,.vocab-table td small { display: block; }
 .vocab-table td small { color: var(--muted); }
 .part-bars { display: grid; gap: 13px; margin-top: 18px; }
@@ -562,4 +568,6 @@ tr:last-child td { border-bottom: 0; }
   .tracker-fields { grid-template-columns: 1fr; }
   .listening-part-grid { grid-template-columns: repeat(2,minmax(0,1fr)); }
   .vocab-lookup-row { grid-template-columns: 1fr; }
+  .page-head { align-items: stretch; flex-direction: column; }
+  .page-head > .button { width: 100%; }
 }
