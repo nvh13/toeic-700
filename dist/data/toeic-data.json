@@ -2289,6 +2289,66 @@
   ],
   "vocabulary": [
     {
+      "id": 1790264057913,
+      "date": "2026-09-24",
+      "week": 4,
+      "sessionId": 16,
+      "word": "hedge",
+      "ipa": "/hedʒ/",
+      "pos": "noun",
+      "meaning": "hàng rào cây, bụi cây được trồng thành hàng",
+      "collocation": "a row of hedges, trim a hedge",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1790262352447,
+      "date": "2026-09-24",
+      "week": 4,
+      "sessionId": 16,
+      "word": "crowded",
+      "ipa": "/ˈkraʊdɪd/",
+      "pos": "adjective",
+      "meaning": "đông đúc, chật kín người",
+      "collocation": "a crowded street, be crowded with people",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1790262290115,
+      "date": "2026-09-24",
+      "week": 4,
+      "sessionId": 16,
+      "word": "railing",
+      "ipa": "/ˈreɪlɪŋ/",
+      "pos": "noun",
+      "meaning": "lan can, tay vịn, thanh chắn",
+      "collocation": "lean against the railing",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1790262243385,
+      "date": "2026-09-24",
+      "week": 4,
+      "sessionId": 16,
+      "word": "sail",
+      "ipa": "/seɪl/",
+      "pos": "verb",
+      "meaning": "đi thuyền, căng buồm, chèo lái/thuyền đi",
+      "collocation": "sail across the ocean",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
       "id": 1790155202536,
       "date": "2026-09-23",
       "week": 4,
@@ -4710,10 +4770,10 @@
   ],
   "settings": {
     "theme": "light",
-    "timerMode": "focus",
+    "timerMode": "stopwatch",
     "focusMinutes": 25,
     "breakMinutes": 5,
-    "lastBackupAt": "2026-09-24T14:10:13.936Z",
+    "lastBackupAt": "2026-09-24T15:43:56.318Z",
     "language": "vi",
     "warnBeforeExit": true
   },
@@ -4973,6 +5033,32 @@
       ],
       "total": 6,
       "correct": 4
+    },
+    {
+      "sessionId": 16,
+      "date": "2026-09-24",
+      "source": "TOEIC LR Collection 1 Test 6",
+      "reason": "sound",
+      "notes": "39",
+      "parts": [
+        {
+          "part": 1,
+          "total": 6,
+          "correct": 5
+        },
+        {
+          "part": 2,
+          "total": 15,
+          "correct": 9
+        },
+        {
+          "part": 3,
+          "total": 9,
+          "correct": 7
+        }
+      ],
+      "total": 30,
+      "correct": 21
     }
   ],
   "scopeChecks": {
@@ -5080,6 +5166,9 @@
       "listening": true,
       "reading": true,
       "review": true
+    },
+    "16": {
+      "listening": true
     }
   }
 }
