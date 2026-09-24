@@ -260,7 +260,7 @@
       "sequence": "30' ngữ pháp + 15' từ vựng + 20' Đọc + 5' Nghe + 5' ghi nhật ký",
       "checkpoint": null,
       "scheduledDate": null,
-      "status": "planned"
+      "status": "completed"
     },
     {
       "id": 16,
@@ -1951,6 +1951,35 @@
           "part": 5,
           "total": 15,
           "correct": 15
+        }
+      ],
+      "errorReasons": [],
+      "notes": ""
+    },
+    {
+      "sessionId": 15,
+      "date": "2026-09-23",
+      "checks": {
+        "grammar": true,
+        "vocabulary": true,
+        "listening": true,
+        "reading": true,
+        "review": true
+      },
+      "minutes": 75,
+      "total": 24,
+      "correct": 17,
+      "legacyInvalid": false,
+      "parts": [
+        {
+          "part": 1,
+          "total": 6,
+          "correct": 4
+        },
+        {
+          "part": 5,
+          "total": 18,
+          "correct": 13
         }
       ],
       "errorReasons": [],
@@ -4452,6 +4481,96 @@
   ],
   "mistakes": [
     {
+      "id": 1790169406105,
+      "part": 5,
+      "topic": "Nouns and articles",
+      "topicKey": "nouns_articles",
+      "questionId": "nouns_articles-023",
+      "contentVersion": 4,
+      "question": "The report includes ___ one-page summary for senior managers.",
+      "passage": "",
+      "passageTitle": "",
+      "answer": "C. a",
+      "yourAnswer": "D. an",
+      "reason": "grammar",
+      "explanation": "Article choice follows pronunciation and whether the noun is specific, not simply the first written letter.",
+      "source": "Session 15 · Reading · Q18",
+      "reviewed": false,
+      "createdAt": "2026-09-23"
+    },
+    {
+      "id": 1790169406104,
+      "part": 5,
+      "topic": "Nouns and articles",
+      "topicKey": "nouns_articles",
+      "questionId": "nouns_articles-009",
+      "contentVersion": 4,
+      "question": "The room contains new ___.",
+      "passage": "",
+      "passageTitle": "",
+      "answer": "C. equipment",
+      "yourAnswer": "D. equipments",
+      "reason": "grammar",
+      "explanation": "A singular countable noun needs a determiner; use a/an according to sound. Information, equipment, advice and furniture are uncountable.",
+      "source": "Session 15 · Reading · Q17",
+      "reviewed": false,
+      "createdAt": "2026-09-23"
+    },
+    {
+      "id": 1790169406102,
+      "part": 5,
+      "topic": "Nouns and articles",
+      "topicKey": "nouns_articles",
+      "questionId": "nouns_articles-018",
+      "contentVersion": 4,
+      "question": "The company opened ___ European branch last year.",
+      "passage": "",
+      "passageTitle": "",
+      "answer": "A. a",
+      "yourAnswer": "C. many",
+      "reason": "grammar",
+      "explanation": "Use the for an identified noun or a second mention; uncountable nouns do not take a/an or a plural -s.",
+      "source": "Session 15 · Reading · Q15",
+      "reviewed": false,
+      "createdAt": "2026-09-23"
+    },
+    {
+      "id": 1790169406097,
+      "part": 5,
+      "topic": "Nouns and articles",
+      "topicKey": "nouns_articles",
+      "questionId": "nouns_articles-012",
+      "contentVersion": 4,
+      "question": "I saw ___ advertisement for the course.",
+      "passage": "",
+      "passageTitle": "",
+      "answer": "C. an",
+      "yourAnswer": "B. few",
+      "reason": "grammar",
+      "explanation": "A singular countable noun needs a determiner; use a/an according to sound. Information, equipment, advice and furniture are uncountable.",
+      "source": "Session 15 · Reading · Q10",
+      "reviewed": false,
+      "createdAt": "2026-09-23"
+    },
+    {
+      "id": 1790169406089,
+      "part": 5,
+      "topic": "Nouns and articles",
+      "topicKey": "nouns_articles",
+      "questionId": "nouns_articles-010",
+      "contentVersion": 4,
+      "question": "There is ___ university near the branch.",
+      "passage": "",
+      "passageTitle": "",
+      "answer": "A. a",
+      "yourAnswer": "B. an",
+      "reason": "grammar",
+      "explanation": "A singular countable noun needs a determiner; use a/an according to sound. Information, equipment, advice and furniture are uncountable.",
+      "source": "Session 15 · Reading · Q6",
+      "reviewed": false,
+      "createdAt": "2026-09-23"
+    },
+    {
       "id": 1789484372681,
       "part": 5,
       "topic": "Question structures",
@@ -4594,8 +4713,8 @@
     "timerMode": "focus",
     "focusMinutes": 25,
     "breakMinutes": 5,
-    "lastBackupAt": "2026-09-23T09:29:43.245Z",
-    "language": "en",
+    "lastBackupAt": "2026-09-24T14:10:13.936Z",
+    "language": "vi",
     "warnBeforeExit": true
   },
   "meta": {
@@ -4753,6 +4872,41 @@
         }
       },
       "date": "2026-09-21"
+    },
+    {
+      "id": 1790169406088,
+      "sessionId": 15,
+      "type": "reading",
+      "contentVersion": 4,
+      "answers": [
+        0,
+        1,
+        2,
+        3,
+        0,
+        1,
+        1,
+        1,
+        2,
+        1,
+        3,
+        0,
+        1,
+        2,
+        2,
+        1,
+        3,
+        3
+      ],
+      "correct": 13,
+      "total": 18,
+      "partScores": {
+        "5": {
+          "correct": 13,
+          "total": 18
+        }
+      },
+      "date": "2026-09-23"
     }
   ],
   "listeningLogs": [
@@ -4922,8 +5076,10 @@
     },
     "15": {
       "grammar": true,
+      "vocabulary": true,
       "listening": true,
-      "vocabulary": true
+      "reading": true,
+      "review": true
     }
   }
 }
