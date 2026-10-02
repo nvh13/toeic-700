@@ -294,7 +294,7 @@
       "sequence": "30' ngữ pháp + 15' từ vựng + 20' Đọc + 5' Nghe + 5' ghi nhật ký",
       "checkpoint": null,
       "scheduledDate": null,
-      "status": "planned"
+      "status": "completed"
     },
     {
       "id": 18,
@@ -2033,6 +2033,35 @@
       ],
       "errorReasons": [],
       "notes": ""
+    },
+    {
+      "sessionId": 17,
+      "date": "2026-10-02",
+      "checks": {
+        "grammar": true,
+        "vocabulary": true,
+        "listening": true,
+        "reading": true,
+        "review": true
+      },
+      "minutes": 125,
+      "total": 28,
+      "correct": 26,
+      "legacyInvalid": false,
+      "parts": [
+        {
+          "part": 2,
+          "total": 10,
+          "correct": 10
+        },
+        {
+          "part": 5,
+          "total": 18,
+          "correct": 16
+        }
+      ],
+      "errorReasons": [],
+      "notes": ""
     }
   ],
   "grammar": [
@@ -2338,6 +2367,96 @@
   ],
   "vocabulary": [
     {
+      "id": 1790955873966,
+      "date": "2026-10-02",
+      "week": 5,
+      "sessionId": 17,
+      "word": "bulk",
+      "ipa": "/bʌlk/",
+      "pos": "noun/adjective",
+      "meaning": "số lượng lớn; dạng mua số lượng lớn",
+      "collocation": "buy in bulk, bulk order, bulk purchase",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1790955827805,
+      "date": "2026-10-02",
+      "week": 5,
+      "sessionId": 17,
+      "word": "inventory",
+      "ipa": "/ˈɪnvəntɔːri/",
+      "pos": "noun",
+      "meaning": "(operations) The stock of an item on hand at a particular location or business.",
+      "collocation": "inventory levels, inventory management, check the inventory",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1790955805695,
+      "date": "2026-10-02",
+      "week": 5,
+      "sessionId": 17,
+      "word": "revenue",
+      "ipa": "/ˈɹɛvənjuː/",
+      "pos": "noun",
+      "meaning": "The total income received from a given source.",
+      "collocation": "annual revenue, increase revenue, sales revenue",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1790955798476,
+      "date": "2026-10-02",
+      "week": 5,
+      "sessionId": 17,
+      "word": "quantity",
+      "ipa": "/ˈkwɒn.tɪ.ti/",
+      "pos": "noun",
+      "meaning": "A fundamental, generic term used when referring to the measurement (count, amount) of a scalar, vector, number of items or to some other way of denominating the value of a collection or group of items.",
+      "collocation": "large quantities, quantity ordered, in large quantities",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1790955698962,
+      "date": "2026-10-02",
+      "week": 5,
+      "sessionId": 17,
+      "word": "retail",
+      "ipa": "/ˈɹiˌteɪl/",
+      "pos": "adjective",
+      "meaning": "(business) The sale of goods directly to the consumer, encompassing the storefronts, mail-order, websites, etc., and the corporate mechanisms, branding, advertising, etc. that support them.",
+      "collocation": "retail store, retail price, retail sales",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1790955691398,
+      "date": "2026-10-02",
+      "week": 5,
+      "sessionId": 17,
+      "word": "wholesale",
+      "ipa": "/ˈhoʊlseɪl/",
+      "pos": "adjective",
+      "meaning": "(business) The sale of products, often in large quantities, to retailers or other merchants.",
+      "collocation": "wholesale price, wholesale supplier, buy wholesale",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
       "id": 1790264057913,
       "date": "2026-09-24",
       "week": 4,
@@ -2378,9 +2497,9 @@
       "meaning": "lan can, tay vịn, thanh chắn",
       "collocation": "lean against the railing",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 1790262243385,
@@ -2425,7 +2544,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 1
+      "reviewCount": 2
     },
     {
       "id": 1790155173791,
@@ -2545,7 +2664,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 1790155055661,
@@ -2573,9 +2692,9 @@
       "meaning": "Châu Á",
       "collocation": "",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 1790073717174,
@@ -2635,7 +2754,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 2
     },
     {
       "id": 1790073559378,
@@ -2680,7 +2799,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 2
     },
     {
       "id": 1790073452802,
@@ -2695,7 +2814,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 2
+      "reviewCount": 3
     },
     {
       "id": 1790072421711,
@@ -2755,7 +2874,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 1
+      "reviewCount": 2
     },
     {
       "id": 1790071987031,
@@ -2845,7 +2964,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 1790006108350,
@@ -2858,9 +2977,9 @@
       "meaning": "Dissemination of information in order to increase its popularity.",
       "collocation": "receive a promotion, get a promotion, promotion opportunity",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 1790006097035,
@@ -2868,14 +2987,15 @@
       "week": 4,
       "sessionId": 14,
       "word": "appraisal",
-      "ipa": "/əˈpɹeɪzəl/",
+      "ipa": "/əˈpreɪ.zəl/",
       "pos": "noun",
       "meaning": "sự đánh giá (thường về hiệu suất nhân viên)",
       "collocation": "performance appraisal, annual appraisal",
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1,
+      "updatedAt": "2026-10-02T15:25:33.987Z"
     },
     {
       "id": 1790006033653,
@@ -2950,7 +3070,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 2
     },
     {
       "id": 1790005869481,
@@ -2965,7 +3085,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 1790005826318,
@@ -2980,7 +3100,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 1789987594351,
@@ -3025,7 +3145,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 1
+      "reviewCount": 3
     },
     {
       "id": 1789987108021,
@@ -3040,7 +3160,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 1789633531781,
@@ -3055,7 +3175,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 1
+      "reviewCount": 2
     },
     {
       "id": 1789633498965,
@@ -3098,9 +3218,9 @@
       "meaning": "To request.",
       "collocation": "ask for assistance, ask for information",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 1
+      "reviewCount": 2
     },
     {
       "id": 1789633403320,
@@ -3173,9 +3293,9 @@
       "meaning": "nhân sự, nhân viên",
       "collocation": "personnel department, personnel records",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 4,
@@ -3203,9 +3323,9 @@
       "meaning": "khát nước",
       "collocation": "",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 6,
@@ -3218,9 +3338,9 @@
       "meaning": "chính trị",
       "collocation": "office politics",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 7,
@@ -3235,7 +3355,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 2
     },
     {
       "id": 8,
@@ -3248,9 +3368,9 @@
       "meaning": "đồng nghiệp",
       "collocation": "former coworker",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 9,
@@ -3355,7 +3475,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 16,
@@ -3368,9 +3488,9 @@
       "meaning": "thói quen, công việc thường lệ",
       "collocation": "daily routine, routine task",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 17,
@@ -3398,9 +3518,9 @@
       "meaning": "cái giá, kệ",
       "collocation": "clothing rack, luggage rack",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 1
+      "reviewCount": 2
     },
     {
       "id": 19,
@@ -3473,9 +3593,9 @@
       "meaning": "thùng hàng",
       "collocation": "wooden crate, a crate of goods/fruit",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 24,
@@ -3488,9 +3608,9 @@
       "meaning": "triển lãm",
       "collocation": "attend an exhibition, exhibition hall",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 1
+      "reviewCount": 2
     },
     {
       "id": 25,
@@ -3518,9 +3638,9 @@
       "meaning": "ngăn kéo",
       "collocation": "desk drawer, file drawer",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 27,
@@ -3595,7 +3715,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 32,
@@ -3608,9 +3728,9 @@
       "meaning": "lọ, hũ",
       "collocation": "a glass jar, a jar of jam",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 33,
@@ -3623,9 +3743,9 @@
       "meaning": "phát, phân phát",
       "collocation": "hand out brochures",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 34,
@@ -3668,9 +3788,9 @@
       "meaning": "bóng đèn",
       "collocation": "light bulb",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 37,
@@ -3700,7 +3820,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 2
+      "reviewCount": 3
     },
     {
       "id": 39,
@@ -3715,7 +3835,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 40,
@@ -3758,9 +3878,9 @@
       "meaning": "phà, tàu phà",
       "collocation": "ferry terminal, take a ferry",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 43,
@@ -3788,9 +3908,9 @@
       "meaning": "tiến độ, sự tiến triển",
       "collocation": "make progress",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 45,
@@ -3805,7 +3925,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 2
     },
     {
       "id": 46,
@@ -3835,7 +3955,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 2
+      "reviewCount": 4
     },
     {
       "id": 48,
@@ -3848,9 +3968,9 @@
       "meaning": "bắt kịp",
       "collocation": "catch up on work",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 49,
@@ -3908,9 +4028,9 @@
       "meaning": "chủ trì cuộc họp",
       "collocation": "",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 53,
@@ -3923,9 +4043,9 @@
       "meaning": "bị trễ, kéo dài muộn",
       "collocation": "",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 54,
@@ -4045,7 +4165,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 3
+      "reviewCount": 4
     },
     {
       "id": 62,
@@ -4058,9 +4178,9 @@
       "meaning": "sự cho phép",
       "collocation": "ask for permission, obtain permission",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 63,
@@ -4075,7 +4195,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 1
+      "reviewCount": 2
     },
     {
       "id": 64,
@@ -4120,7 +4240,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 67,
@@ -4223,9 +4343,9 @@
       "meaning": "lô, mẻ sản phẩm",
       "collocation": "a batch of products / production batch",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 74,
@@ -4358,9 +4478,9 @@
       "meaning": "kế hoạch dự phòng",
       "collocation": "",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 3
+      "reviewCount": 4
     },
     {
       "id": 83,
@@ -4589,6 +4709,42 @@
     }
   ],
   "mistakes": [
+    {
+      "id": 1790953193553,
+      "part": 5,
+      "topic": "Từ hạn định và chỉ số lượng",
+      "topicKey": "determiners",
+      "questionId": "determiners-018",
+      "contentVersion": 4,
+      "question": "Please allow ___ two days for international delivery.",
+      "passage": "",
+      "passageTitle": "",
+      "answer": "B. another",
+      "yourAnswer": "C. either",
+      "reason": "grammar",
+      "explanation": "Either/neither chỉ hai đối tượng; another là thêm một; other bổ nghĩa số nhiều; few/little chỉ sự ít ỏi.",
+      "source": "Session 17 · Reading · Q8",
+      "reviewed": false,
+      "createdAt": "2026-10-02"
+    },
+    {
+      "id": 1790953193548,
+      "part": 5,
+      "topic": "Từ hạn định và chỉ số lượng",
+      "topicKey": "determiners",
+      "questionId": "determiners-023",
+      "contentVersion": 4,
+      "question": "___ of the two suppliers can meet the deadline, so we need to contact a third company.",
+      "passage": "",
+      "passageTitle": "",
+      "answer": "D. Neither",
+      "yourAnswer": "C. Both",
+      "reason": "grammar",
+      "explanation": "Xác định số đối tượng được nói đến và tính đếm được của danh từ theo sau.",
+      "source": "Session 17 · Reading · Q3",
+      "reviewed": false,
+      "createdAt": "2026-10-02"
+    },
     {
       "id": 1790608848934,
       "part": 6,
@@ -4894,7 +5050,7 @@
     "timerMode": "stopwatch",
     "focusMinutes": 25,
     "breakMinutes": 5,
-    "lastBackupAt": "2026-09-28T15:46:25.847Z",
+    "lastBackupAt": "2026-10-02T15:45:40.843Z",
     "language": "vi",
     "warnBeforeExit": true
   },
@@ -5198,6 +5354,41 @@
         }
       },
       "date": "2026-09-28"
+    },
+    {
+      "id": 1790953193546,
+      "sessionId": 17,
+      "type": "reading",
+      "contentVersion": 4,
+      "answers": [
+        0,
+        2,
+        2,
+        2,
+        3,
+        0,
+        0,
+        2,
+        3,
+        0,
+        0,
+        1,
+        1,
+        2,
+        2,
+        3,
+        3,
+        2
+      ],
+      "correct": 16,
+      "total": 18,
+      "partScores": {
+        "5": {
+          "correct": 16,
+          "total": 18
+        }
+      },
+      "date": "2026-10-02"
     }
   ],
   "listeningLogs": [
@@ -5290,6 +5481,22 @@
       ],
       "total": 30,
       "correct": 21
+    },
+    {
+      "sessionId": 17,
+      "date": "2026-10-02",
+      "source": "TOEIC LR Collection 1 Test 6",
+      "reason": "",
+      "notes": "Đoán 2 câu",
+      "parts": [
+        {
+          "part": 2,
+          "total": 10,
+          "correct": 10
+        }
+      ],
+      "total": 10,
+      "correct": 10
     }
   ],
   "scopeChecks": {
@@ -5399,6 +5606,13 @@
       "review": true
     },
     "16": {
+      "grammar": true,
+      "vocabulary": true,
+      "listening": true,
+      "reading": true,
+      "review": true
+    },
+    "17": {
       "grammar": true,
       "vocabulary": true,
       "listening": true,
