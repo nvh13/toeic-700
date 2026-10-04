@@ -328,7 +328,7 @@
       "sequence": "30' ngữ pháp + 15' từ vựng + 15' Nghe + 10' Đọc + 5' ghi nhật ký",
       "checkpoint": null,
       "scheduledDate": null,
-      "status": "planned"
+      "status": "completed"
     },
     {
       "id": 20,
@@ -2091,6 +2091,35 @@
       ],
       "errorReasons": [],
       "notes": ""
+    },
+    {
+      "sessionId": 19,
+      "date": "2026-10-04",
+      "checks": {
+        "grammar": true,
+        "vocabulary": true,
+        "listening": true,
+        "reading": true,
+        "review": true
+      },
+      "minutes": 57,
+      "total": 21,
+      "correct": 18,
+      "legacyInvalid": false,
+      "parts": [
+        {
+          "part": 3,
+          "total": 6,
+          "correct": 5
+        },
+        {
+          "part": 5,
+          "total": 15,
+          "correct": 13
+        }
+      ],
+      "errorReasons": [],
+      "notes": ""
     }
   ],
   "grammar": [
@@ -2395,6 +2424,141 @@
     }
   ],
   "vocabulary": [
+    {
+      "id": 1791124879745,
+      "date": "2026-10-04",
+      "week": 5,
+      "sessionId": 19,
+      "word": "productivity",
+      "ipa": "/ˌpɹɒdʌkˈtɪvəti/",
+      "pos": "noun",
+      "meaning": "The state of being productive, fertile, or efficient.",
+      "collocation": "increase productivity, employee productivity, improve productivity",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1791124859913,
+      "date": "2026-10-04",
+      "week": 5,
+      "sessionId": 19,
+      "word": "profit",
+      "ipa": "/ˈpɹɒfɪt/",
+      "pos": "noun",
+      "meaning": "(accounting, economics) Total income or cash flow minus expenditures. The money or other benefit a non-governmental organization or individual receives in exchange for products and services sold at an advertised price.",
+      "collocation": "lợi nhuận",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1791124839217,
+      "date": "2026-10-04",
+      "week": 5,
+      "sessionId": 19,
+      "word": "durable",
+      "ipa": "/ˈdʊɹəbəl/",
+      "pos": "adjective",
+      "meaning": "Able to resist wear or decay; lasting; enduring.",
+      "collocation": "durable materials, durable products, built to last",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1791124824619,
+      "date": "2026-10-04",
+      "week": 5,
+      "sessionId": 19,
+      "word": "reliable",
+      "ipa": "/ɹɪˈlaɪəbl̩/",
+      "pos": "adjective",
+      "meaning": "Suitable or fit to be relied on; worthy of dependence, reliance or trust; dependable, trustworthy",
+      "collocation": "reliable service, reliable equipment, a reliable supplier",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1791124804407,
+      "date": "2026-10-04",
+      "week": 5,
+      "sessionId": 19,
+      "word": "efficient",
+      "ipa": "/ɪˈfɪʃənt/",
+      "pos": "adjective",
+      "meaning": "hiệu quả, năng suất tốt",
+      "collocation": "efficient system, energy-efficient equipment, improve efficiency",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1791124779733,
+      "date": "2026-10-04",
+      "week": 5,
+      "sessionId": 19,
+      "word": "cost-effective",
+      "ipa": "/ˌkɔːst ɪˈfektɪv/",
+      "pos": "adjective",
+      "meaning": "hiệu quả về chi phí",
+      "collocation": "cost-effective solution, cost-effective method, a cost-effective way to do something",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1791124755579,
+      "date": "2026-10-04",
+      "week": 5,
+      "sessionId": 19,
+      "word": "competitive",
+      "ipa": "/kəmˈpɛt.ɪ.tɪv/",
+      "pos": "adjective",
+      "meaning": "có tính cạnh tranh",
+      "collocation": "competitive prices, competitive rates, competitive market",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1791124719753,
+      "date": "2026-10-04",
+      "week": 5,
+      "sessionId": 19,
+      "word": "reasonable",
+      "ipa": "/ˈɹiː.zə.nə.bəl/",
+      "pos": "adjective",
+      "meaning": "hợp lý, phải chăng",
+      "collocation": "",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1791124698615,
+      "date": "2026-10-04",
+      "week": 5,
+      "sessionId": 19,
+      "word": "affordable",
+      "ipa": "/əˈfɔːrdəbəl/",
+      "pos": "adjective",
+      "meaning": "có giá phải chăng",
+      "collocation": "affordable prices, affordable housing, reasonably affordable",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
     {
       "id": 1790955873966,
       "date": "2026-10-02",
@@ -4739,6 +4903,42 @@
   ],
   "mistakes": [
     {
+      "id": 1791123815181,
+      "part": 5,
+      "topic": "So sánh",
+      "topicKey": "comparisons",
+      "questionId": "comparisons-016",
+      "contentVersion": 4,
+      "question": "The updated timetable is far ___ to read.",
+      "passage": "",
+      "passageTitle": "",
+      "answer": "B. easier",
+      "yourAnswer": "C. easy",
+      "reason": "grammar",
+      "explanation": "Much/far có thể bổ nghĩa so sánh hơn; tính từ dài thường dùng more/most; không dùng more cùng đuôi -er.",
+      "source": "Session 19 · Reading · Q9",
+      "reviewed": false,
+      "createdAt": "2026-10-04"
+    },
+    {
+      "id": 1791123815175,
+      "part": 5,
+      "topic": "So sánh",
+      "topicKey": "comparisons",
+      "questionId": "comparisons-008",
+      "contentVersion": 4,
+      "question": "This chair is as ___ as that one.",
+      "passage": "",
+      "passageTitle": "",
+      "answer": "A. comfortable",
+      "yourAnswer": "D. comfortably",
+      "reason": "grammar",
+      "explanation": "Dùng so sánh hơn với than, so sánh nhất trong nhóm, as + tính từ/trạng từ + as cho ngang bằng.",
+      "source": "Session 19 · Reading · Q3",
+      "reviewed": false,
+      "createdAt": "2026-10-04"
+    },
+    {
       "id": 1791100840445,
       "part": 5,
       "topic": "Word forms and positions",
@@ -5277,7 +5477,7 @@
     "timerMode": "stopwatch",
     "focusMinutes": 25,
     "breakMinutes": 5,
-    "lastBackupAt": "2026-10-04T09:07:25.430Z",
+    "lastBackupAt": "2026-10-04T14:41:55.702Z",
     "language": "vi",
     "warnBeforeExit": true
   },
@@ -5690,6 +5890,38 @@
         }
       },
       "date": "2026-10-04"
+    },
+    {
+      "id": 1791123815173,
+      "sessionId": 19,
+      "type": "reading",
+      "contentVersion": 4,
+      "answers": [
+        0,
+        3,
+        3,
+        1,
+        2,
+        2,
+        3,
+        0,
+        2,
+        2,
+        3,
+        0,
+        1,
+        2,
+        3
+      ],
+      "correct": 13,
+      "total": 15,
+      "partScores": {
+        "5": {
+          "correct": 13,
+          "total": 15
+        }
+      },
+      "date": "2026-10-04"
     }
   ],
   "listeningLogs": [
@@ -5814,6 +6046,22 @@
       ],
       "total": 10,
       "correct": 7
+    },
+    {
+      "sessionId": 19,
+      "date": "2026-10-04",
+      "source": "TOEIC LR Collection 1 Test 1",
+      "reason": "sound",
+      "notes": "",
+      "parts": [
+        {
+          "part": 3,
+          "total": 6,
+          "correct": 5
+        }
+      ],
+      "total": 6,
+      "correct": 5
     }
   ],
   "scopeChecks": {
@@ -5937,6 +6185,13 @@
       "review": true
     },
     "18": {
+      "grammar": true,
+      "vocabulary": true,
+      "listening": true,
+      "reading": true,
+      "review": true
+    },
+    "19": {
       "grammar": true,
       "vocabulary": true,
       "listening": true,
