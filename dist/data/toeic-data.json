@@ -311,7 +311,7 @@
       "sequence": "30' ngữ pháp + 15' từ vựng + 20' Đọc + 5' Nghe + 5' ghi nhật ký",
       "checkpoint": null,
       "scheduledDate": null,
-      "status": "planned"
+      "status": "completed"
     },
     {
       "id": 19,
@@ -2058,6 +2058,35 @@
           "part": 5,
           "total": 18,
           "correct": 16
+        }
+      ],
+      "errorReasons": [],
+      "notes": ""
+    },
+    {
+      "sessionId": 18,
+      "date": "2026-10-04",
+      "checks": {
+        "grammar": true,
+        "vocabulary": true,
+        "listening": true,
+        "reading": true,
+        "review": true
+      },
+      "minutes": 80,
+      "total": 30,
+      "correct": 16,
+      "legacyInvalid": false,
+      "parts": [
+        {
+          "part": 2,
+          "total": 10,
+          "correct": 7
+        },
+        {
+          "part": 5,
+          "total": 20,
+          "correct": 9
         }
       ],
       "errorReasons": [],
@@ -5248,7 +5277,7 @@
     "timerMode": "stopwatch",
     "focusMinutes": 25,
     "breakMinutes": 5,
-    "lastBackupAt": "2026-10-04T09:05:28.571Z",
+    "lastBackupAt": "2026-10-04T09:07:25.430Z",
     "language": "vi",
     "warnBeforeExit": true
   },
@@ -5909,9 +5938,10 @@
     },
     "18": {
       "grammar": true,
+      "vocabulary": true,
+      "listening": true,
       "reading": true,
-      "review": true,
-      "listening": true
+      "review": true
     }
   }
 }
