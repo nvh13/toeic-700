@@ -2497,7 +2497,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 1791124779733,
@@ -2527,7 +2527,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 1791124719753,
@@ -2557,7 +2557,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 2
     },
     {
       "id": 1790955873966,
@@ -2572,7 +2572,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 1790955827805,
@@ -2662,7 +2662,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 1790262352447,
@@ -2722,7 +2722,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 1
+      "reviewCount": 2
     },
     {
       "id": 1790155186936,
@@ -2795,9 +2795,9 @@
       "meaning": "Châu Úc",
       "collocation": "",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 1790155111808,
@@ -2990,9 +2990,9 @@
       "meaning": "hộp mực máy in",
       "collocation": "replace a printer cartridge, install a new cartridge",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 2
+      "reviewCount": 3
     },
     {
       "id": 1790073452802,
@@ -3007,7 +3007,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 3
+      "reviewCount": 4
     },
     {
       "id": 1790072421711,
@@ -3291,9 +3291,9 @@
       "meaning": "A person, firm or other entity which pays for or hires the services of another person.",
       "collocation": "potential employer, employer-sponsored, employer benefits",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 1
+      "reviewCount": 2
     },
     {
       "id": 1789987594351,
@@ -3338,7 +3338,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 3
+      "reviewCount": 4
     },
     {
       "id": 1789987108021,
@@ -3366,9 +3366,9 @@
       "meaning": "để đáp lại / liên quan đến yêu cầu",
       "collocation": "In response to your request, we have attached the document.",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 4
+      "reviewCount": 5
     },
     {
       "id": 1789633498965,
@@ -3441,9 +3441,9 @@
       "meaning": "A body of one or more persons convened for the accomplishment of some specific purpose, typically with formal protocols.",
       "collocation": "committee meeting, organizing committee",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 2
+      "reviewCount": 3
     },
     {
       "id": 1,
@@ -3548,7 +3548,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 3
+      "reviewCount": 6
     },
     {
       "id": 8,
@@ -3606,9 +3606,9 @@
       "meaning": "đun sôi",
       "collocation": "boil an egg, boil water",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 12,
@@ -3728,7 +3728,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 20,
@@ -3878,7 +3878,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 30,
@@ -3906,9 +3906,9 @@
       "meaning": "khăn ăn, khăn giấy ăn",
       "collocation": "paper napkins, cloth napkins",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 1
+      "reviewCount": 2
     },
     {
       "id": 32,
@@ -3968,7 +3968,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 36,
@@ -4056,9 +4056,9 @@
       "meaning": "hoãn",
       "collocation": "postpone a meeting, postpone an event",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 42,
@@ -4131,9 +4131,9 @@
       "meaning": "lịch trình",
       "collocation": "on schedule, ahead of schedule, behind schedule",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 47,
@@ -4343,7 +4343,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 61,
@@ -4446,9 +4446,9 @@
       "meaning": "chiếu sáng, làm sáng; làm rõ",
       "collocation": "illuminate a room, be illuminated by lights",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 68,
@@ -4491,9 +4491,9 @@
       "meaning": "lỗi, khuyết tật sản phẩm",
       "collocation": "product defect / detect defects",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 3
+      "reviewCount": 4
     },
     {
       "id": 71,
@@ -4506,9 +4506,9 @@
       "meaning": "nhà kho",
       "collocation": "store goods in a warehouse",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 72,
@@ -4902,6 +4902,60 @@
     }
   ],
   "mistakes": [
+    {
+      "id": 1792307769794,
+      "part": 6,
+      "topic": "Dạng từ và vị trí từ",
+      "topicKey": "word_forms",
+      "questionId": "p6-6-3",
+      "contentVersion": 4,
+      "question": "Blank (3)",
+      "passage": "___(1) of the two rooms is suitable; both have a projector. Room A is ___(2) than Room B and can seat more people. However, Room B has a ___(3) location near reception. There is ___(4) space there for the twelve guests expected.",
+      "passageTitle": "Two available rooms",
+      "answer": "A. convenient",
+      "yourAnswer": "C. conveniently",
+      "reason": "context",
+      "explanation": "Vị trí trong câu quyết định từ loại cần dùng.",
+      "source": "Session 20 · Reading · Q7",
+      "reviewed": false,
+      "createdAt": "2026-10-18"
+    },
+    {
+      "id": 1792307769792,
+      "part": 6,
+      "topic": "Từ hạn định và chỉ số lượng",
+      "topicKey": "determiners",
+      "questionId": "p6-6-1",
+      "contentVersion": 4,
+      "question": "Blank (1)",
+      "passage": "___(1) of the two rooms is suitable; both have a projector. Room A is ___(2) than Room B and can seat more people. However, Room B has a ___(3) location near reception. There is ___(4) space there for the twelve guests expected.",
+      "passageTitle": "Two available rooms",
+      "answer": "C. Either",
+      "yourAnswer": "A. All",
+      "reason": "context",
+      "explanation": "Ghép từ chỉ số lượng với danh từ số ít/số nhiều hoặc không đếm được.",
+      "source": "Session 20 · Reading · Q5",
+      "reviewed": false,
+      "createdAt": "2026-10-18"
+    },
+    {
+      "id": 1792307769789,
+      "part": 6,
+      "topic": "Dạng từ và vị trí từ",
+      "topicKey": "word_forms",
+      "questionId": "p6-5-2",
+      "contentVersion": 4,
+      "question": "Blank (2)",
+      "passage": "We expect ___(1) guests, so please order twenty cups. We need a ___(2) supply of drinking water. The larger bottles are ___(3) expensive than individual bottles. Please place the order ___(4) so it arrives in time.",
+      "passageTitle": "Refreshment order",
+      "answer": "C. reliable",
+      "yourAnswer": "A. reliability",
+      "reason": "context",
+      "explanation": "Vị trí trong câu quyết định từ loại cần dùng.",
+      "source": "Session 20 · Reading · Q2",
+      "reviewed": false,
+      "createdAt": "2026-10-18"
+    },
     {
       "id": 1791123815181,
       "part": 5,
@@ -5477,7 +5531,7 @@
     "timerMode": "stopwatch",
     "focusMinutes": 25,
     "breakMinutes": 5,
-    "lastBackupAt": "2026-10-04T14:41:55.702Z",
+    "lastBackupAt": "2026-10-18T15:07:47.287Z",
     "language": "vi",
     "warnBeforeExit": true
   },
@@ -5922,6 +5976,31 @@
         }
       },
       "date": "2026-10-04"
+    },
+    {
+      "id": 1792307769788,
+      "sessionId": 20,
+      "type": "reading",
+      "contentVersion": 4,
+      "answers": [
+        1,
+        0,
+        3,
+        0,
+        0,
+        1,
+        2,
+        3
+      ],
+      "correct": 5,
+      "total": 8,
+      "partScores": {
+        "6": {
+          "correct": 5,
+          "total": 8
+        }
+      },
+      "date": "2026-10-18"
     }
   ],
   "listeningLogs": [
@@ -6197,6 +6276,12 @@
       "listening": true,
       "reading": true,
       "review": true
+    },
+    "20": {
+      "grammar": true,
+      "reading": true,
+      "review": true,
+      "listening": true
     }
   }
 }
