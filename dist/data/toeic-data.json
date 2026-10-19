@@ -345,7 +345,7 @@
       "sequence": "20' ngữ pháp + 15' từ vựng + 25' Part 6 + 10' Nghe + 5' ghi nhật ký",
       "checkpoint": "Ôn tập tuần",
       "scheduledDate": null,
-      "status": "planned"
+      "status": "completed"
     },
     {
       "id": 21,
@@ -362,7 +362,7 @@
       "sequence": "30' ngữ pháp + 15' từ vựng + 20' Đọc + 5' Nghe + 5' ghi nhật ký",
       "checkpoint": null,
       "scheduledDate": null,
-      "status": "planned"
+      "status": "completed"
     },
     {
       "id": 22,
@@ -2120,6 +2120,69 @@
       ],
       "errorReasons": [],
       "notes": ""
+    },
+    {
+      "sessionId": 20,
+      "date": "2026-10-19",
+      "checks": {
+        "grammar": true,
+        "vocabulary": true,
+        "listening": true,
+        "reading": true,
+        "review": true
+      },
+      "minutes": 70,
+      "total": 20,
+      "correct": 14,
+      "legacyInvalid": false,
+      "parts": [
+        {
+          "part": 2,
+          "total": 6,
+          "correct": 3
+        },
+        {
+          "part": 3,
+          "total": 6,
+          "correct": 6
+        },
+        {
+          "part": 6,
+          "total": 8,
+          "correct": 5
+        }
+      ],
+      "errorReasons": [],
+      "notes": ""
+    },
+    {
+      "sessionId": 21,
+      "date": "2026-10-19",
+      "checks": {
+        "grammar": true,
+        "vocabulary": true,
+        "listening": true,
+        "reading": true,
+        "review": true
+      },
+      "minutes": 75,
+      "total": 25,
+      "correct": 20,
+      "legacyInvalid": false,
+      "parts": [
+        {
+          "part": 2,
+          "total": 10,
+          "correct": 7
+        },
+        {
+          "part": 5,
+          "total": 15,
+          "correct": 13
+        }
+      ],
+      "errorReasons": [],
+      "notes": ""
     }
   ],
   "grammar": [
@@ -2425,6 +2488,156 @@
   ],
   "vocabulary": [
     {
+      "id": 1792402289998,
+      "date": "2026-10-19",
+      "week": 6,
+      "sessionId": 21,
+      "word": "negotiate",
+      "ipa": "/nɪˈɡəʊ.ʃi.eɪt/",
+      "pos": "verb",
+      "meaning": "(intransitive) To confer with others in order to come to terms or reach an agreement.",
+      "collocation": "negotiate a contract, negotiate with a supplier, negotiate terms",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1792402242884,
+      "date": "2026-10-19",
+      "week": 6,
+      "sessionId": 21,
+      "word": "interpret",
+      "ipa": "/ɪnˈtɜː.pɹɪt/",
+      "pos": "verb",
+      "meaning": "To explain or tell the meaning of; to translate orally into intelligible or familiar language or terms. applied especially to language, but also to dreams, signs, conduct, mysteries, etc.",
+      "collocation": "interpret the results, interpret the data, interpret for a client",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1792402216732,
+      "date": "2026-10-19",
+      "week": 6,
+      "sessionId": 21,
+      "word": "revise",
+      "ipa": "/ɹɪˈvaɪz/",
+      "pos": "verb",
+      "meaning": "sửa đổi, chỉnh sửa nội dung.",
+      "collocation": "revise a report, revise a proposal, make revisions",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1792402114167,
+      "date": "2026-10-19",
+      "week": 6,
+      "sessionId": 21,
+      "word": "address",
+      "ipa": "/əˈdres/",
+      "pos": "verb",
+      "meaning": "giải quyết, xử lý một vấn đề; đề cập đến một vấn đề.",
+      "collocation": "address a concern, address an issue",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1792402055002,
+      "date": "2026-10-19",
+      "week": 6,
+      "sessionId": 21,
+      "word": "acknowledge",
+      "ipa": "/əkˈnɑːlɪdʒ/",
+      "pos": "verb",
+      "meaning": "(transitive) To admit the knowledge of; to recognize as a fact or truth; to declare one's belief in.",
+      "collocation": "acknowledge receipt of an email, acknowledge a request",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1792401902656,
+      "date": "2026-10-19",
+      "week": 6,
+      "sessionId": 21,
+      "word": "misunderstanding",
+      "ipa": "/ˌmɪsʌndəˈstændɪŋ/",
+      "pos": "noun",
+      "meaning": "A mistake as to the meaning of something or a specific point of view; erroneous interpretation or comprehension; misconception.",
+      "collocation": "avoid a misunderstanding, clear up a misunderstanding, a minor misunderstanding",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1792401890087,
+      "date": "2026-10-19",
+      "week": 6,
+      "sessionId": 21,
+      "word": "correspond",
+      "ipa": "/ˌkɒɹɪˈspɒnd/",
+      "pos": "verb",
+      "meaning": "(intransitive, constructed with to) To be equivalent or similar in character, quantity, quality, origin, structure, function etc.",
+      "collocation": "correspond to something, correspond with something",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1792401610923,
+      "date": "2026-10-19",
+      "week": 6,
+      "sessionId": 21,
+      "word": "notify",
+      "ipa": "/ˈnoʊtɪfaɪ/",
+      "pos": "verb",
+      "meaning": "(transitive) To give (someone) notice (of some event).",
+      "collocation": "notify someone of a change, notify customers, be notified by email",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 1
+    },
+    {
+      "id": 1792401560811,
+      "date": "2026-10-19",
+      "week": 6,
+      "sessionId": 21,
+      "word": "inform",
+      "ipa": "/ɪnˈfɔːm/",
+      "pos": "verb",
+      "meaning": "thông báo cho ai biết",
+      "collocation": "inform someone of something, inform employees about a change",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1792401509380,
+      "date": "2026-10-19",
+      "week": 6,
+      "sessionId": 21,
+      "word": "convey",
+      "ipa": "/kənˈveɪ/",
+      "pos": "verb",
+      "meaning": "To communicate; to make known; to portray.",
+      "collocation": "convey a message, convey information, convey one's appreciation",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
       "id": 1791124879745,
       "date": "2026-10-04",
       "week": 5,
@@ -2467,7 +2680,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 1791124824619,
@@ -2497,7 +2710,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 1
+      "reviewCount": 2
     },
     {
       "id": 1791124779733,
@@ -2555,9 +2768,9 @@
       "meaning": "có giá phải chăng",
       "collocation": "affordable prices, affordable housing, reasonably affordable",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 2
+      "reviewCount": 3
     },
     {
       "id": 1790955873966,
@@ -2570,9 +2783,9 @@
       "meaning": "số lượng lớn; dạng mua số lượng lớn",
       "collocation": "buy in bulk, bulk order, bulk purchase",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 1
+      "reviewCount": 2
     },
     {
       "id": 1790955827805,
@@ -2722,7 +2935,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 2
+      "reviewCount": 3
     },
     {
       "id": 1790155186936,
@@ -2767,7 +2980,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 1790155137904,
@@ -2812,7 +3025,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 1
+      "reviewCount": 2
     },
     {
       "id": 1790155098125,
@@ -2840,9 +3053,9 @@
       "meaning": "Bắc Mỹ",
       "collocation": "",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 1790155070477,
@@ -3203,7 +3416,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 3
+      "reviewCount": 4
     },
     {
       "id": 1790005983144,
@@ -3231,9 +3444,9 @@
       "meaning": "(transitive) To employ; to obtain the services of (a person) in exchange for remuneration; to give someone a job.",
       "collocation": "hire an employee, hire additional staff, newly hired",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 1790005925225,
@@ -3383,7 +3596,7 @@
       "example": "Would you be willing to answer a few questions?",
       "remembered": false,
       "note": "",
-      "reviewCount": 2
+      "reviewCount": 3
     },
     {
       "id": 1789633445914,
@@ -3428,7 +3641,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 1789633379243,
@@ -3966,9 +4179,9 @@
       "meaning": "nhân viên phục vụ",
       "collocation": "flight attendant, parking attendant",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 1
+      "reviewCount": 2
     },
     {
       "id": 36,
@@ -4041,9 +4254,9 @@
       "meaning": "sự đặt chỗ",
       "collocation": "make a reservation, confirm a reservation",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 2
+      "reviewCount": 3
     },
     {
       "id": 41,
@@ -4116,9 +4329,9 @@
       "meaning": "cột mốc quan trọng",
       "collocation": "reach a milestone",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 2
+      "reviewCount": 3
     },
     {
       "id": 46,
@@ -4191,9 +4404,9 @@
       "meaning": "người tham gia",
       "collocation": "meeting participants",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 51,
@@ -4341,9 +4554,9 @@
       "meaning": "tuân thủ",
       "collocation": "comply with regulations/policies",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 1
+      "reviewCount": 2
     },
     {
       "id": 61,
@@ -4902,6 +5115,42 @@
     }
   ],
   "mistakes": [
+    {
+      "id": 1792401322299,
+      "part": 5,
+      "topic": "Word order and adverbs",
+      "topicKey": "word_order",
+      "questionId": "word_order-001",
+      "contentVersion": 4,
+      "question": "The room is ___.",
+      "passage": "",
+      "passageTitle": "",
+      "answer": "D. large enough for ten guests",
+      "yourAnswer": "C. enough large for ten guests",
+      "reason": "grammar",
+      "explanation": "Enough follows an adjective but precedes a noun; adverbs belong inside the auxiliary phrase without separating a verb and its object.",
+      "source": "Session 21 · Reading · Q8",
+      "reviewed": false,
+      "createdAt": "2026-10-19"
+    },
+    {
+      "id": 1792401322292,
+      "part": 5,
+      "topic": "Word order and adverbs",
+      "topicKey": "word_order",
+      "questionId": "word_order-020",
+      "contentVersion": 4,
+      "question": "The revised guide ___.",
+      "passage": "",
+      "passageTitle": "",
+      "answer": "A. is easy enough for first-time users to follow",
+      "yourAnswer": "B. is enough easy for first-time users to follow",
+      "reason": "grammar",
+      "explanation": "Choose an entire phrase with grammatical word order, not just a phrase containing the right vocabulary.",
+      "source": "Session 21 · Reading · Q1",
+      "reviewed": false,
+      "createdAt": "2026-10-19"
+    },
     {
       "id": 1792307769794,
       "part": 6,
@@ -5528,10 +5777,10 @@
   ],
   "settings": {
     "theme": "light",
-    "timerMode": "stopwatch",
+    "timerMode": "focus",
     "focusMinutes": 25,
     "breakMinutes": 5,
-    "lastBackupAt": "2026-10-18T15:07:47.287Z",
+    "lastBackupAt": "2026-10-19T09:59:46.776Z",
     "language": "vi",
     "warnBeforeExit": true
   },
@@ -6001,6 +6250,38 @@
         }
       },
       "date": "2026-10-18"
+    },
+    {
+      "id": 1792401322292,
+      "sessionId": 21,
+      "type": "reading",
+      "contentVersion": 4,
+      "answers": [
+        1,
+        0,
+        2,
+        3,
+        0,
+        0,
+        1,
+        2,
+        0,
+        1,
+        2,
+        3,
+        0,
+        2,
+        3
+      ],
+      "correct": 13,
+      "total": 15,
+      "partScores": {
+        "5": {
+          "correct": 13,
+          "total": 15
+        }
+      },
+      "date": "2026-10-19"
     }
   ],
   "listeningLogs": [
@@ -6141,6 +6422,43 @@
       ],
       "total": 6,
       "correct": 5
+    },
+    {
+      "sessionId": 20,
+      "date": "2026-10-19",
+      "source": "TOEIC LR Collection 1 Test 7",
+      "reason": "sound",
+      "notes": "",
+      "parts": [
+        {
+          "part": 2,
+          "total": 6,
+          "correct": 3
+        },
+        {
+          "part": 3,
+          "total": 6,
+          "correct": 6
+        }
+      ],
+      "total": 12,
+      "correct": 9
+    },
+    {
+      "sessionId": 21,
+      "date": "2026-10-19",
+      "source": "TOEIC LR Collection 1 Test 7",
+      "reason": "sound",
+      "notes": "Nghe rõ 3 câu",
+      "parts": [
+        {
+          "part": 2,
+          "total": 10,
+          "correct": 7
+        }
+      ],
+      "total": 10,
+      "correct": 7
     }
   ],
   "scopeChecks": {
@@ -6279,9 +6597,17 @@
     },
     "20": {
       "grammar": true,
+      "vocabulary": true,
+      "listening": true,
       "reading": true,
-      "review": true,
-      "listening": true
+      "review": true
+    },
+    "21": {
+      "grammar": true,
+      "vocabulary": true,
+      "listening": true,
+      "reading": true,
+      "review": true
     }
   }
 }
