@@ -379,7 +379,7 @@
       "sequence": "30' ngữ pháp + 15' từ vựng + 15' Nghe + 10' Đọc + 5' ghi nhật ký",
       "checkpoint": null,
       "scheduledDate": null,
-      "status": "planned"
+      "status": "completed"
     },
     {
       "id": 23,
@@ -396,7 +396,7 @@
       "sequence": "30' ngữ pháp + 15' từ vựng + 20' Đọc + 5' Nghe + 5' ghi nhật ký",
       "checkpoint": null,
       "scheduledDate": null,
-      "status": "planned"
+      "status": "completed"
     },
     {
       "id": 24,
@@ -2183,6 +2183,69 @@
       ],
       "errorReasons": [],
       "notes": ""
+    },
+    {
+      "sessionId": 22,
+      "date": "2026-10-21",
+      "checks": {
+        "grammar": true,
+        "vocabulary": true,
+        "listening": true,
+        "reading": true,
+        "review": true
+      },
+      "minutes": 55,
+      "total": 14,
+      "correct": 13,
+      "legacyInvalid": false,
+      "parts": [
+        {
+          "part": 3,
+          "total": 6,
+          "correct": 5
+        },
+        {
+          "part": 6,
+          "total": 8,
+          "correct": 8
+        }
+      ],
+      "errorReasons": [],
+      "notes": ""
+    },
+    {
+      "sessionId": 23,
+      "date": "2026-10-28",
+      "checks": {
+        "grammar": true,
+        "vocabulary": true,
+        "listening": true,
+        "reading": true,
+        "review": true
+      },
+      "minutes": 60,
+      "total": 27,
+      "correct": 23,
+      "legacyInvalid": false,
+      "parts": [
+        {
+          "part": 2,
+          "total": 8,
+          "correct": 7
+        },
+        {
+          "part": 5,
+          "total": 15,
+          "correct": 12
+        },
+        {
+          "part": 6,
+          "total": 4,
+          "correct": 4
+        }
+      ],
+      "errorReasons": [],
+      "notes": ""
     }
   ],
   "grammar": [
@@ -2487,6 +2550,261 @@
     }
   ],
   "vocabulary": [
+    {
+      "id": 1793177124250,
+      "date": "2026-10-28",
+      "week": 6,
+      "sessionId": 23,
+      "word": "eligible",
+      "ipa": "/ˈelɪdʒəbəl/",
+      "pos": "adjective",
+      "meaning": "đủ điều kiện để được hưởng hoặc tham gia điều gì.",
+      "collocation": "eligible for a discount, eligible customers, be eligible to apply",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1793177072674,
+      "date": "2026-10-28",
+      "week": 6,
+      "sessionId": 23,
+      "word": "subscription",
+      "ipa": "/səbˈskrɪpʃən/",
+      "pos": "noun",
+      "meaning": "Access to a resource for a period of time, generally for payment.",
+      "collocation": "annual subscription, subscription fee",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1793177039051,
+      "date": "2026-10-28",
+      "week": 6,
+      "sessionId": 23,
+      "word": "warranty",
+      "ipa": "/ˈwɒɹ.ən.ti/",
+      "pos": "noun",
+      "meaning": "(countable) A written guarantee, usually over a fixed period, provided to someone who buys a product or item, which states that certain repairs and/or replacement parts will be provided free of charge in case of damage or a defect.",
+      "collocation": "warranty period, warranty coverage",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1793177008203,
+      "date": "2026-10-28",
+      "week": 6,
+      "sessionId": 23,
+      "word": "supplier",
+      "ipa": "/səˈplaɪə/",
+      "pos": "noun",
+      "meaning": "nhà cung cấp",
+      "collocation": "contact a supplier; reliable supplier",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1793176943741,
+      "date": "2026-10-28",
+      "week": 6,
+      "sessionId": 23,
+      "word": "prospective",
+      "ipa": "/pɹəˈspɛktɪv/",
+      "pos": "adjective",
+      "meaning": "Likely or expected to happen or become.",
+      "collocation": "prospective customer, prospective buyer",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1793176902579,
+      "date": "2026-10-28",
+      "week": 6,
+      "sessionId": 23,
+      "word": "consultant",
+      "ipa": "/kənˈsʌl.tənt/",
+      "pos": "noun",
+      "meaning": "A person whose occupation is to be consulted for their expertise, advice, service or help in an area or specialty; a party whose business is to be similarly consulted.",
+      "collocation": "business consultant, hire a consultant, consulting services",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1793176872667,
+      "date": "2026-10-28",
+      "week": 6,
+      "sessionId": 23,
+      "word": "representative",
+      "ipa": "/ˌreprɪˈzentətɪv/",
+      "pos": "noun",
+      "meaning": "người đại diện",
+      "collocation": "customer service representative, sales representative",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1792554188237,
+      "date": "2026-10-21",
+      "week": 6,
+      "sessionId": 22,
+      "word": "in the event of",
+      "ipa": "/ɪn ði ɪˈvent əv/",
+      "pos": "",
+      "meaning": "trong trường hợp xảy ra; theo sau là danh từ hoặc cụm danh từ.",
+      "collocation": "in the event of an emergency, , in the event of a delay",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1792554135916,
+      "date": "2026-10-21",
+      "week": 6,
+      "sessionId": 22,
+      "word": "provided that",
+      "ipa": "/prəˈvaɪdɪd ðæt/",
+      "pos": "",
+      "meaning": "với điều kiện là, miễn là",
+      "collocation": "provided that approval is granted, provided that all requirements are met",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1792554097556,
+      "date": "2026-10-21",
+      "week": 6,
+      "sessionId": 22,
+      "word": "otherwise",
+      "ipa": "/ˈʌð.əˌwaɪz/",
+      "pos": "adverb",
+      "meaning": "(conjunctive) In different circumstances; or else.",
+      "collocation": "submit the form; otherwise,…              , hurry up, otherwise…",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1792554061068,
+      "date": "2026-10-21",
+      "week": 6,
+      "sessionId": 22,
+      "word": "consequently",
+      "ipa": "/ˈkɒnsɪˌkwɛntli/",
+      "pos": "adverb",
+      "meaning": "(conjunctive) As a result or consequence of something; subsequently.",
+      "collocation": "",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1792554016852,
+      "date": "2026-10-21",
+      "week": 6,
+      "sessionId": 22,
+      "word": "due to",
+      "ipa": "/duː tuː/",
+      "pos": "",
+      "meaning": "do, bởi vì; theo sau là danh từ hoặc cụm danh từ",
+      "collocation": "due to bad weather, due to a technical problem",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1792553979667,
+      "date": "2026-10-21",
+      "week": 6,
+      "sessionId": 22,
+      "word": "lead to",
+      "ipa": "/liːd tuː/",
+      "pos": "",
+      "meaning": "To be a cause of.",
+      "collocation": "lead to an increase, lead to problems",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1792553955844,
+      "date": "2026-10-21",
+      "week": 6,
+      "sessionId": 22,
+      "word": "result from",
+      "ipa": "/rɪˈzʌlt frəm/",
+      "pos": "",
+      "meaning": "là kết quả của, bắt nguồn từ",
+      "collocation": "result from a mistake, result from poor planning",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1792553924108,
+      "date": "2026-10-21",
+      "week": 6,
+      "sessionId": 22,
+      "word": "result in",
+      "ipa": "/rɪˈzʌlt ɪn/",
+      "pos": "",
+      "meaning": "dẫn đến, gây ra một kết quả",
+      "collocation": "result in higher costs, result in a loss",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1792553874509,
+      "date": "2026-10-21",
+      "week": 6,
+      "sessionId": 22,
+      "word": "cause",
+      "ipa": "/kɔːz/",
+      "pos": "verb",
+      "meaning": "gây ra",
+      "collocation": "cause a delay",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
+    {
+      "id": 1792553840271,
+      "date": "2026-10-21",
+      "week": 6,
+      "sessionId": 22,
+      "word": "cause",
+      "ipa": "/kɔːz/",
+      "pos": "noun",
+      "meaning": "(countable, often with of, typically of adverse results) The source of, or reason for, an event or action; that which produces or effects a result.",
+      "collocation": "the cause of something",
+      "example": "",
+      "remembered": false,
+      "note": "",
+      "reviewCount": 0
+    },
     {
       "id": 1792402289998,
       "date": "2026-10-19",
@@ -5116,6 +5434,78 @@
   ],
   "mistakes": [
     {
+      "id": 1793171494565,
+      "part": 5,
+      "topic": "Mệnh đề quan hệ và danh từ",
+      "topicKey": "clauses",
+      "questionId": "clauses-006",
+      "contentVersion": 4,
+      "question": "The laptop ___ I ordered is now in stock.",
+      "passage": "",
+      "passageTitle": "",
+      "answer": "B. which",
+      "yourAnswer": "D. whose",
+      "reason": "grammar",
+      "explanation": "Who chỉ người, which chỉ vật, whose chỉ sở hữu, where chỉ nơi; từ quan hệ phải có vai trò trong mệnh đề.",
+      "source": "Session 23 · Reading · Q13",
+      "reviewed": false,
+      "createdAt": "2026-10-28"
+    },
+    {
+      "id": 1793171494563,
+      "part": 5,
+      "topic": "Mệnh đề quan hệ và danh từ",
+      "topicKey": "clauses",
+      "questionId": "clauses-017",
+      "contentVersion": 4,
+      "question": "The clerk showed us the room in ___ the interview would take place.",
+      "passage": "",
+      "passageTitle": "",
+      "answer": "D. which",
+      "yourAnswer": "A. where",
+      "reason": "grammar",
+      "explanation": "Mệnh đề quan hệ và danh từ giữ trật tự câu kể; chọn đại từ theo chức năng, không chỉ theo danh từ gần nhất.",
+      "source": "Session 23 · Reading · Q11",
+      "reviewed": false,
+      "createdAt": "2026-10-28"
+    },
+    {
+      "id": 1793171494552,
+      "part": 5,
+      "topic": "Mệnh đề quan hệ và danh từ",
+      "topicKey": "clauses",
+      "questionId": "clauses-020",
+      "contentVersion": 4,
+      "question": "The question is ___ the revised schedule leaves enough time for testing.",
+      "passage": "",
+      "passageTitle": "",
+      "answer": "B. whether",
+      "yourAnswer": "A. whose",
+      "reason": "grammar",
+      "explanation": "Mệnh đề phải hoàn chỉnh sau khi điền từ quan hệ hoặc từ mở đầu mệnh đề danh từ.",
+      "source": "Session 23 · Reading · Q1",
+      "reviewed": false,
+      "createdAt": "2026-10-28"
+    },
+    {
+      "id": 1792551968065,
+      "part": 6,
+      "topic": "Connectors and conditionals",
+      "topicKey": "conditionals",
+      "questionId": "p6-8-4",
+      "contentVersion": 4,
+      "question": "Blank (4)",
+      "passage": "The visit will take place on Friday if the weather ___(1) suitable. If we had an indoor site, we ___(2) use it in bad weather. Please bring a jacket ___(3) the site can be windy. ___(4) the location is outside town, the company bus will make the trip easy.",
+      "passageTitle": "Outdoor training visit",
+      "answer": "D. Although",
+      "yourAnswer": "A. Because of",
+      "reason": "context",
+      "explanation": "Select the connector expressing the required reason, contrast, purpose or condition.",
+      "source": "Session 22 · Reading · Q4",
+      "reviewed": false,
+      "createdAt": "2026-10-21"
+    },
+    {
       "id": 1792401322299,
       "part": 5,
       "topic": "Word order and adverbs",
@@ -5780,7 +6170,7 @@
     "timerMode": "focus",
     "focusMinutes": 25,
     "breakMinutes": 5,
-    "lastBackupAt": "2026-10-19T09:59:46.776Z",
+    "lastBackupAt": "2026-10-30T02:59:18.218Z",
     "language": "vi",
     "warnBeforeExit": true
   },
@@ -6282,6 +6672,96 @@
         }
       },
       "date": "2026-10-19"
+    },
+    {
+      "id": 1792551968062,
+      "sessionId": 22,
+      "type": "reading",
+      "contentVersion": 4,
+      "answers": [
+        2,
+        1,
+        0,
+        0,
+        1,
+        2,
+        3,
+        0
+      ],
+      "correct": 7,
+      "total": 8,
+      "partScores": {
+        "6": {
+          "correct": 7,
+          "total": 8
+        }
+      },
+      "date": "2026-10-21"
+    },
+    {
+      "id": 1792551995876,
+      "sessionId": 22,
+      "type": "reading",
+      "contentVersion": 4,
+      "answers": [
+        2,
+        1,
+        0,
+        3,
+        1,
+        2,
+        3,
+        0
+      ],
+      "correct": 8,
+      "total": 8,
+      "partScores": {
+        "6": {
+          "correct": 8,
+          "total": 8
+        }
+      },
+      "date": "2026-10-21"
+    },
+    {
+      "id": 1793171494553,
+      "sessionId": 23,
+      "type": "reading",
+      "contentVersion": 4,
+      "answers": [
+        0,
+        1,
+        0,
+        1,
+        2,
+        3,
+        0,
+        0,
+        2,
+        2,
+        0,
+        0,
+        3,
+        2,
+        3,
+        0,
+        3,
+        2,
+        1
+      ],
+      "correct": 16,
+      "total": 19,
+      "partScores": {
+        "5": {
+          "correct": 12,
+          "total": 15
+        },
+        "6": {
+          "correct": 4,
+          "total": 4
+        }
+      },
+      "date": "2026-10-28"
     }
   ],
   "listeningLogs": [
@@ -6459,6 +6939,38 @@
       ],
       "total": 10,
       "correct": 7
+    },
+    {
+      "sessionId": 22,
+      "date": "2026-10-21",
+      "source": "TOEIC LR Collection 1 Test 1",
+      "reason": "sound",
+      "notes": "",
+      "parts": [
+        {
+          "part": 3,
+          "total": 6,
+          "correct": 5
+        }
+      ],
+      "total": 6,
+      "correct": 5
+    },
+    {
+      "sessionId": 23,
+      "date": "2026-10-28",
+      "source": "TOEIC LR Collection 1 Test 8",
+      "reason": "sound",
+      "notes": "",
+      "parts": [
+        {
+          "part": 2,
+          "total": 8,
+          "correct": 7
+        }
+      ],
+      "total": 8,
+      "correct": 7
     }
   ],
   "scopeChecks": {
@@ -6603,6 +7115,20 @@
       "review": true
     },
     "21": {
+      "grammar": true,
+      "vocabulary": true,
+      "listening": true,
+      "reading": true,
+      "review": true
+    },
+    "22": {
+      "grammar": true,
+      "vocabulary": true,
+      "listening": true,
+      "reading": true,
+      "review": true
+    },
+    "23": {
       "grammar": true,
       "vocabulary": true,
       "listening": true,
