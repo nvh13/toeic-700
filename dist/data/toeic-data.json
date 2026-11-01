@@ -413,7 +413,7 @@
       "sequence": "20' ôn tập + 15' từ vựng + 25' luyện tập + 10' chữa + 5' ghi nhật ký",
       "checkpoint": "Ôn tập tuần",
       "scheduledDate": null,
-      "status": "planned"
+      "status": "completed"
     },
     {
       "id": 25,
@@ -2246,6 +2246,35 @@
       ],
       "errorReasons": [],
       "notes": ""
+    },
+    {
+      "sessionId": 24,
+      "date": "2026-11-01",
+      "checks": {
+        "grammar": true,
+        "vocabulary": true,
+        "listening": true,
+        "reading": true,
+        "review": true
+      },
+      "minutes": 75,
+      "total": 26,
+      "correct": 22,
+      "legacyInvalid": false,
+      "parts": [
+        {
+          "part": 3,
+          "total": 18,
+          "correct": 15
+        },
+        {
+          "part": 6,
+          "total": 8,
+          "correct": 7
+        }
+      ],
+      "errorReasons": [],
+      "notes": ""
     }
   ],
   "grammar": [
@@ -3073,7 +3102,7 @@
       "example": "",
       "remembered": false,
       "note": "",
-      "reviewCount": 0
+      "reviewCount": 1
     },
     {
       "id": 1791124698615,
@@ -3987,9 +4016,9 @@
       "meaning": "người giám sát, quản lý trực tiếp",
       "collocation": "report to a supervisor, contact a supervisor",
       "example": "",
-      "remembered": false,
+      "remembered": true,
       "note": "",
-      "reviewCount": 3
+      "reviewCount": 4
     },
     {
       "id": 2,
@@ -5434,6 +5463,24 @@
   ],
   "mistakes": [
     {
+      "id": 1793544970145,
+      "part": 6,
+      "topic": "Liên từ và câu điều kiện",
+      "topicKey": "conditionals",
+      "questionId": "p6-10-2",
+      "contentVersion": 4,
+      "question": "Blank (2)",
+      "passage": "The room ___(1) we normally hold training is unavailable today. ___(2) the room is being repaired, we will use the annex. The trainer, ___(3) arrived this morning, knows about the change. She ___(4) the materials, so the session will begin on time.",
+      "passageTitle": "Training room change",
+      "answer": "A. Because",
+      "yourAnswer": "D. During",
+      "reason": "context",
+      "explanation": "Chọn liên từ diễn tả đúng lý do, tương phản, mục đích hay điều kiện.",
+      "source": "Session 24 · Reading · Q2",
+      "reviewed": false,
+      "createdAt": "2026-11-01"
+    },
+    {
       "id": 1793171494565,
       "part": 5,
       "topic": "Mệnh đề quan hệ và danh từ",
@@ -6170,7 +6217,7 @@
     "timerMode": "focus",
     "focusMinutes": 25,
     "breakMinutes": 5,
-    "lastBackupAt": "2026-10-30T02:59:18.218Z",
+    "lastBackupAt": "2026-11-01T15:01:58.800Z",
     "language": "vi",
     "warnBeforeExit": true
   },
@@ -6762,6 +6809,31 @@
         }
       },
       "date": "2026-10-28"
+    },
+    {
+      "id": 1793544970145,
+      "sessionId": 24,
+      "type": "reading",
+      "contentVersion": 4,
+      "answers": [
+        3,
+        3,
+        1,
+        2,
+        2,
+        1,
+        0,
+        3
+      ],
+      "correct": 7,
+      "total": 8,
+      "partScores": {
+        "6": {
+          "correct": 7,
+          "total": 8
+        }
+      },
+      "date": "2026-11-01"
     }
   ],
   "listeningLogs": [
@@ -6971,6 +7043,22 @@
       ],
       "total": 8,
       "correct": 7
+    },
+    {
+      "sessionId": 24,
+      "date": "2026-11-01",
+      "source": "TOEIC LR Collection 1 Test 8",
+      "reason": "sound",
+      "notes": "",
+      "parts": [
+        {
+          "part": 3,
+          "total": 18,
+          "correct": 15
+        }
+      ],
+      "total": 18,
+      "correct": 15
     }
   ],
   "scopeChecks": {
@@ -7129,6 +7217,13 @@
       "review": true
     },
     "23": {
+      "grammar": true,
+      "vocabulary": true,
+      "listening": true,
+      "reading": true,
+      "review": true
+    },
+    "24": {
       "grammar": true,
       "vocabulary": true,
       "listening": true,
